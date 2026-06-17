@@ -16,7 +16,9 @@ from language_analyzer.analyzer import (
 )
 
 
-def _write_stats(f: TextIOWrapper, stats: dict[str, Any], title: str) -> None:
+def _write_stats(
+    f: TextIOWrapper, stats: dict[str, Any], title: str, level: str
+) -> None:
     """Write a statistics block to the provided file object.
 
     Args:
@@ -24,6 +26,7 @@ def _write_stats(f: TextIOWrapper, stats: dict[str, Any], title: str) -> None:
         stats: A dictionary containing the standard text statistics
             (lines, words, etc.).
         title: The section header title to print above the statistics.
+        level: The detail level of statistics to show ('basic', 'words', 'all').
     """
     f.write(f"\n--- {title} ---\n")
     if "file_count" in stats:
@@ -32,17 +35,19 @@ def _write_stats(f: TextIOWrapper, stats: dict[str, Any], title: str) -> None:
     f.write(f"Number of words: {stats['words_count']}\n")
     f.write(f"Number of unique words: {stats['unique_words_count']}\n")
 
-    f.write("Top 10 words:\n")
-    for word, count in stats["top_10_words"]:
-        f.write(f"  {word}: {count}\n")
+    if level in ["words", "all"]:
+        f.write("Top 10 words:\n")
+        for word, count in stats["top_10_words"]:
+            f.write(f"  {word}: {count}\n")
 
-    f.write("Letters counts:\n")
-    for char, count in stats["letters_count"]:
-        f.write(f"  {char}: {count}\n")
+    if level == "all":
+        f.write("Letters counts:\n")
+        for char, count in stats["letters_count"]:
+            f.write(f"  {char}: {count}\n")
 
-    f.write("Other characters counts:\n")
-    for char, count in stats["other_count"]:
-        f.write(f"  {char}: {count}\n")
+        f.write("Other characters counts:\n")
+        for char, count in stats["other_count"]:
+            f.write(f"  {char}: {count}\n")
 
 
 def main() -> None:
@@ -58,7 +63,11 @@ def main() -> None:
         "--dictionary", required=True, help="Path to the dictionary file"
     )
     parser.add_argument(
-        "--dictionary-stats", action="store_true", help="Display global statistics"
+        "--dictionary-stats",
+        nargs="?",
+        const="all",
+        choices=["basic", "words", "all"],
+        help="Display statistics level (basic, words, all) for dictionary and works",
     )
     parser.add_argument(
         "--works", required=True, help="Comma-separated paths to literary works"
@@ -100,7 +109,9 @@ def main() -> None:
     with open(args.output, "w", encoding="utf-8") as out:
         # 1. Dictionary statistics
         if args.dictionary_stats:
-            _write_stats(out, dict_stats, "Dictionary Statistics")
+            _write_stats(
+                out, dict_stats, "Dictionary Statistics", args.dictionary_stats
+            )
 
         # 2. Combined works statistics
         if args.dictionary_stats:
@@ -115,7 +126,12 @@ def main() -> None:
                 "letters_count": letters,
                 "other_count": other,
             }
-            _write_stats(out, total_stats, "Total Statistics for all Master files")
+            _write_stats(
+                out,
+                total_stats,
+                "Total Statistics for all Master files",
+                args.dictionary_stats,
+            )
 
         # 3. Similarity comparison
         if args.frequencies is not None and len(works_files) > 1:
@@ -129,7 +145,12 @@ def main() -> None:
         # 4. Separate works statistics
         if args.dictionary_stats and len(works_files) > 1:
             for work in works_files:
-                _write_stats(out, works_stats[work], f"Statistics for file: {work}")
+                _write_stats(
+                    out,
+                    works_stats[work],
+                    f"Statistics for file: {work}",
+                    args.dictionary_stats,
+                )
 
         # 5. Top frequent words
         if args.frequencies is not None:
