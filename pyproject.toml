@@ -32,6 +32,7 @@ target-version = "py314"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "W", "UP", "B", "SIM"]
+ignore = ["SIM105"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
