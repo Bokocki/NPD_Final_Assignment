@@ -66,6 +66,7 @@ def main() -> None:
         "--dictionary-stats",
         nargs="?",
         const="all",
+        default="all",
         choices=["basic", "words", "all"],
         help="Display statistics level (basic, words, all) for dictionary and works",
     )
