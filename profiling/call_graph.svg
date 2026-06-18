@@ -15,10 +15,10 @@
 <g id="node1" class="node">
 <title>21</title>
 <g id="a_node1"><a xlink:title="~">
-<polygon fill="#0d0f74" stroke="#0d0f74" points="1717.88,-350 1479.88,-350 1479.88,-294 1717.88,-294 1717.88,-350"/>
+<polygon fill="#0d1074" stroke="#0d1074" points="1717.88,-350 1479.88,-350 1479.88,-294 1717.88,-294 1717.88,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="1598.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;read&#39; of &#39;_io.TextIOWrapper&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="1598.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.66%</text>
-<text xml:space="preserve" text-anchor="middle" x="1598.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.39%)</text>
+<text xml:space="preserve" text-anchor="middle" x="1598.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.67%</text>
+<text xml:space="preserve" text-anchor="middle" x="1598.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.46%)</text>
 <text xml:space="preserve" text-anchor="middle" x="1598.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
 </a>
 </g>
@@ -27,425 +27,425 @@
 <g id="node2" class="node">
 <title>113</title>
 <g id="a_node2"><a xlink:title="/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py">
-<polygon fill="#0d2079" stroke="#0d2079" points="212.5,-252 107.25,-252 107.25,-196 212.5,-196 212.5,-252"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" points="212.5,-252 107.25,-252 107.25,-196 212.5,-196 212.5,-252"/>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-238.5" font-family="Arial" font-size="10.00" fill="#ffffff">__init__:602:__init__</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.58%</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.36%</text>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.00%)</text>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-202.5" font-family="Arial" font-size="10.00" fill="#ffffff">17×</text>
 </a>
 </g>
 </g>
-<!-- 254 -->
+<!-- 251 -->
 <g id="node3" class="node">
-<title>254</title>
+<title>251</title>
 <g id="a_node3"><a xlink:title="/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py">
-<polygon fill="#0d2079" stroke="#0d2079" points="210.25,-154 109.5,-154 109.5,-98 210.25,-98 210.25,-154"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" points="210.25,-154 109.5,-154 109.5,-98 210.25,-98 210.25,-154"/>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-140.5" font-family="Arial" font-size="10.00" fill="#ffffff">__init__:679:update</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-128.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.58%</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-128.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.36%</text>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-116.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.00%)</text>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-104.5" font-family="Arial" font-size="10.00" fill="#ffffff">23×</text>
 </a>
 </g>
 </g>
-<!-- 113&#45;&gt;254 -->
+<!-- 113&#45;&gt;251 -->
 <g id="edge1" class="edge">
-<title>113&#45;&gt;254</title>
-<path fill="none" stroke="#0d2079" stroke-width="0.5" d="M159.88,-195.75C159.88,-184.09 159.88,-170.42 159.88,-158.35"/>
-<polygon fill="#0d2079" stroke="#0d2079" stroke-width="0.5" points="161.1,-158.58 159.88,-155.08 158.65,-158.58 161.1,-158.58"/>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d2079">4.58%</text>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-165.5" font-family="Arial" font-size="10.00" fill="#0d2079">17×</text>
+<title>113&#45;&gt;251</title>
+<path fill="none" stroke="#0d1f78" stroke-width="0.5" d="M159.88,-195.75C159.88,-184.09 159.88,-170.42 159.88,-158.35"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" stroke-width="0.5" points="161.1,-158.58 159.88,-155.08 158.65,-158.58 161.1,-158.58"/>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d1f78">4.36%</text>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-165.5" font-family="Arial" font-size="10.00" fill="#0d1f78">17×</text>
 </g>
-<!-- 552 -->
+<!-- 553 -->
 <g id="node19" class="node">
-<title>552</title>
+<title>553</title>
 <g id="a_node19"><a xlink:title="~">
-<polygon fill="#0d2079" stroke="#0d2079" points="280.38,-56 39.38,-56 39.38,0 280.38,0 280.38,-56"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" points="280.38,-56 39.38,-56 39.38,0 280.38,0 280.38,-56"/>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-42.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;built&#45;in method _collections._count_elements&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-30.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.57%</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-18.5" font-family="Arial" font-size="10.00" fill="#ffffff">(4.59%)</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-30.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.35%</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-18.5" font-family="Arial" font-size="10.00" fill="#ffffff">(4.37%)</text>
 <text xml:space="preserve" text-anchor="middle" x="159.88" y="-6.5" font-family="Arial" font-size="10.00" fill="#ffffff">10×</text>
 </a>
 </g>
 </g>
-<!-- 254&#45;&gt;552 -->
+<!-- 251&#45;&gt;553 -->
 <g id="edge20" class="edge">
-<title>254&#45;&gt;552</title>
-<path fill="none" stroke="#0d2079" stroke-width="0.5" d="M159.88,-97.75C159.88,-86.09 159.88,-72.42 159.88,-60.35"/>
-<polygon fill="#0d2079" stroke="#0d2079" stroke-width="0.5" points="161.1,-60.58 159.88,-57.08 158.65,-60.58 161.1,-60.58"/>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-79.5" font-family="Arial" font-size="10.00" fill="#0d2079">4.57%</text>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-67.5" font-family="Arial" font-size="10.00" fill="#0d2079">10×</text>
+<title>251&#45;&gt;553</title>
+<path fill="none" stroke="#0d1f78" stroke-width="0.5" d="M159.88,-97.75C159.88,-86.09 159.88,-72.42 159.88,-60.35"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" stroke-width="0.5" points="161.1,-60.58 159.88,-57.08 158.65,-60.58 161.1,-60.58"/>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-79.5" font-family="Arial" font-size="10.00" fill="#0d1f78">4.35%</text>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-67.5" font-family="Arial" font-size="10.00" fill="#0d1f78">10×</text>
 </g>
 <!-- 114 -->
 <g id="node4" class="node">
 <title>114</title>
-<g id="a_node4"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#0d2079" stroke="#0d2079" points="221.12,-350 98.62,-350 98.62,-294 221.12,-294 221.12,-350"/>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:31:count_chars</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.55%</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.00%)</text>
-<text xml:space="preserve" text-anchor="middle" x="159.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
+<g id="a_node4"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py">
+<polygon fill="#ff0000" stroke="#ff0000" points="443.5,-546 380.25,-546 380.25,-490 443.5,-490 443.5,-546"/>
+<text xml:space="preserve" text-anchor="middle" x="411.88" y="-532.5" font-family="Arial" font-size="10.00" fill="#ffffff">cli:53:main</text>
+<text xml:space="preserve" text-anchor="middle" x="411.88" y="-520.5" font-family="Arial" font-size="10.00" fill="#ffffff">100.00%</text>
+<text xml:space="preserve" text-anchor="middle" x="411.88" y="-508.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.81%)</text>
+<text xml:space="preserve" text-anchor="middle" x="411.88" y="-496.5" font-family="Arial" font-size="10.00" fill="#ffffff">1×</text>
 </a>
 </g>
 </g>
-<!-- 114&#45;&gt;113 -->
-<g id="edge2" class="edge">
-<title>114&#45;&gt;113</title>
-<path fill="none" stroke="#0d2079" stroke-width="0.5" d="M159.88,-293.75C159.88,-282.09 159.88,-268.42 159.88,-256.35"/>
-<polygon fill="#0d2079" stroke="#0d2079" stroke-width="0.5" points="161.1,-256.58 159.88,-253.08 158.65,-256.58 161.1,-256.58"/>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d2079">4.55%</text>
-<text xml:space="preserve" text-anchor="middle" x="173.75" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d2079">8×</text>
-</g>
-<!-- 116 -->
+<!-- 117 -->
 <g id="node5" class="node">
-<title>116</title>
+<title>117</title>
 <g id="a_node5"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#0d1375" stroke="#0d1375" points="412.38,-448 237.38,-448 237.38,-392 412.38,-392 412.38,-448"/>
+<polygon fill="#0d1475" stroke="#0d1475" points="412.38,-448 237.38,-448 237.38,-392 412.38,-392 412.38,-448"/>
 <text xml:space="preserve" text-anchor="middle" x="324.88" y="-434.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:275:build_works_dataframe</text>
-<text xml:space="preserve" text-anchor="middle" x="324.88" y="-422.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.52%</text>
-<text xml:space="preserve" text-anchor="middle" x="324.88" y="-410.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.12%)</text>
+<text xml:space="preserve" text-anchor="middle" x="324.88" y="-422.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.68%</text>
+<text xml:space="preserve" text-anchor="middle" x="324.88" y="-410.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.13%)</text>
 <text xml:space="preserve" text-anchor="middle" x="324.88" y="-398.5" font-family="Arial" font-size="10.00" fill="#ffffff">1×</text>
 </a>
 </g>
 </g>
-<!-- 795 -->
+<!-- 114&#45;&gt;117 -->
+<g id="edge2" class="edge">
+<title>114&#45;&gt;117</title>
+<path fill="none" stroke="#0d1475" stroke-width="0.5" d="M387.18,-489.75C376.34,-477.79 363.58,-463.7 352.43,-451.41"/>
+<polygon fill="#0d1475" stroke="#0d1475" stroke-width="0.5" points="353.4,-450.65 350.14,-448.88 351.59,-452.3 353.4,-450.65"/>
+<text xml:space="preserve" text-anchor="middle" x="392.6" y="-471.5" font-family="Arial" font-size="10.00" fill="#0d1475">1.68%</text>
+<text xml:space="preserve" text-anchor="middle" x="392.6" y="-459.5" font-family="Arial" font-size="10.00" fill="#0d1475">1×</text>
+</g>
+<!-- 118 -->
 <g id="node6" class="node">
-<title>795</title>
-<g id="a_node6"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/indexes/base.py">
-<polygon fill="#0d1274" stroke="#0d1274" points="89.38,-350 10.38,-350 10.38,-294 89.38,-294 89.38,-350"/>
+<title>118</title>
+<g id="a_node6"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<polygon fill="#fa1f01" stroke="#fa1f01" points="693.25,-448 538.5,-448 538.5,-392 693.25,-392 693.25,-448"/>
+<text xml:space="preserve" text-anchor="middle" x="615.88" y="-434.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:117:analyze_dictionary</text>
+<text xml:space="preserve" text-anchor="middle" x="615.88" y="-422.5" font-family="Arial" font-size="10.00" fill="#ffffff">96.96%</text>
+<text xml:space="preserve" text-anchor="middle" x="615.88" y="-410.5" font-family="Arial" font-size="10.00" fill="#ffffff">(39.01%)</text>
+<text xml:space="preserve" text-anchor="middle" x="615.88" y="-398.5" font-family="Arial" font-size="10.00" fill="#ffffff">1×</text>
+</a>
+</g>
+</g>
+<!-- 114&#45;&gt;118 -->
+<g id="edge3" class="edge">
+<title>114&#45;&gt;118</title>
+<path fill="none" stroke="#fa1f01" stroke-width="3.88" d="M443.75,-502C470.44,-489.44 509.55,-471.04 543.74,-454.94"/>
+<polygon fill="#fa1f01" stroke="#fa1f01" stroke-width="3.88" points="544.83,-458.22 552.24,-450.95 541.91,-452.02 544.83,-458.22"/>
+<text xml:space="preserve" text-anchor="middle" x="554.65" y="-471.5" font-family="Arial" font-size="10.00" fill="#fa1f01">96.96%</text>
+<text xml:space="preserve" text-anchor="middle" x="554.65" y="-459.5" font-family="Arial" font-size="10.00" fill="#fa1f01">1×</text>
+</g>
+<!-- 796 -->
+<g id="node8" class="node">
+<title>796</title>
+<g id="a_node8"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/indexes/base.py">
+<polygon fill="#0d1375" stroke="#0d1375" points="89.38,-350 10.38,-350 10.38,-294 89.38,-294 89.38,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="49.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">base:6675:isin</text>
-<text xml:space="preserve" text-anchor="middle" x="49.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.36%</text>
+<text xml:space="preserve" text-anchor="middle" x="49.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.47%</text>
 <text xml:space="preserve" text-anchor="middle" x="49.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.07%)</text>
 <text xml:space="preserve" text-anchor="middle" x="49.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">2×</text>
 </a>
 </g>
 </g>
-<!-- 116&#45;&gt;795 -->
-<g id="edge3" class="edge">
-<title>116&#45;&gt;795</title>
-<path fill="none" stroke="#0d1274" stroke-width="0.5" d="M236.91,-408.65C206.18,-403.23 171.94,-395.1 142.12,-383 123.21,-375.32 104,-363.6 88.06,-352.54"/>
-<polygon fill="#0d1274" stroke="#0d1274" stroke-width="0.5" points="89.1,-351.78 85.53,-350.78 87.7,-353.79 89.1,-351.78"/>
-<text xml:space="preserve" text-anchor="middle" x="156" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1274">1.36%</text>
-<text xml:space="preserve" text-anchor="middle" x="156" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1274">2×</text>
+<!-- 117&#45;&gt;796 -->
+<g id="edge5" class="edge">
+<title>117&#45;&gt;796</title>
+<path fill="none" stroke="#0d1375" stroke-width="0.5" d="M236.91,-408.65C206.18,-403.23 171.94,-395.1 142.12,-383 123.21,-375.32 104,-363.6 88.06,-352.54"/>
+<polygon fill="#0d1375" stroke="#0d1375" stroke-width="0.5" points="89.1,-351.78 85.53,-350.78 87.7,-353.79 89.1,-351.78"/>
+<text xml:space="preserve" text-anchor="middle" x="156" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1375">1.47%</text>
+<text xml:space="preserve" text-anchor="middle" x="156" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1375">2×</text>
 </g>
-<!-- 400 -->
-<g id="node20" class="node">
-<title>400</title>
-<g id="a_node20"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/algorithms.py">
-<polygon fill="#0d1274" stroke="#0d1274" points="97.75,-252 0,-252 0,-196 97.75,-196 97.75,-252"/>
-<text xml:space="preserve" text-anchor="middle" x="48.88" y="-238.5" font-family="Arial" font-size="10.00" fill="#ffffff">algorithms:493:isin</text>
-<text xml:space="preserve" text-anchor="middle" x="48.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.29%</text>
-<text xml:space="preserve" text-anchor="middle" x="48.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.84%)</text>
-<text xml:space="preserve" text-anchor="middle" x="48.88" y="-202.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
-</a>
-</g>
-</g>
-<!-- 795&#45;&gt;400 -->
-<g id="edge23" class="edge">
-<title>795&#45;&gt;400</title>
-<path fill="none" stroke="#0d1274" stroke-width="0.5" d="M49.59,-293.75C49.47,-282.09 49.33,-268.42 49.2,-256.35"/>
-<polygon fill="#0d1274" stroke="#0d1274" stroke-width="0.5" points="50.43,-256.56 49.17,-253.08 47.98,-256.59 50.43,-256.56"/>
-<text xml:space="preserve" text-anchor="middle" x="63.37" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d1274">1.29%</text>
-<text xml:space="preserve" text-anchor="middle" x="63.37" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d1274">2×</text>
-</g>
-<!-- 117 -->
-<g id="node7" class="node">
-<title>117</title>
-<g id="a_node7"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#fb1c01" stroke="#fb1c01" points="693.25,-448 538.5,-448 538.5,-392 693.25,-392 693.25,-448"/>
-<text xml:space="preserve" text-anchor="middle" x="615.88" y="-434.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:117:analyze_dictionary</text>
-<text xml:space="preserve" text-anchor="middle" x="615.88" y="-422.5" font-family="Arial" font-size="10.00" fill="#ffffff">97.24%</text>
-<text xml:space="preserve" text-anchor="middle" x="615.88" y="-410.5" font-family="Arial" font-size="10.00" fill="#ffffff">(39.28%)</text>
-<text xml:space="preserve" text-anchor="middle" x="615.88" y="-398.5" font-family="Arial" font-size="10.00" fill="#ffffff">1×</text>
-</a>
-</g>
-</g>
-<!-- 117&#45;&gt;21 -->
-<g id="edge4" class="edge">
-<title>117&#45;&gt;21</title>
+<!-- 118&#45;&gt;21 -->
+<g id="edge6" class="edge">
+<title>118&#45;&gt;21</title>
 <path fill="none" stroke="#0d0f74" stroke-width="0.5" d="M693.6,-417.9C819.16,-415.43 1074.25,-407.59 1288.88,-383 1371.41,-373.55 1392.43,-366.6 1475.43,-350.09"/>
 <polygon fill="#0d0f74" stroke="#0d0f74" stroke-width="0.5" points="1475.49,-351.32 1478.69,-349.44 1475.02,-348.92 1475.49,-351.32"/>
-<text xml:space="preserve" text-anchor="middle" x="1442.83" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d0f74">0.65%</text>
+<text xml:space="preserve" text-anchor="middle" x="1442.83" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d0f74">0.66%</text>
 <text xml:space="preserve" text-anchor="middle" x="1442.83" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d0f74">1×</text>
 </g>
-<!-- 117&#45;&gt;114 -->
-<g id="edge5" class="edge">
-<title>117&#45;&gt;114</title>
-<path fill="none" stroke="#0d2079" stroke-width="0.5" d="M538.09,-406.75C501.41,-401.41 456.99,-395.56 416.88,-392 393.31,-389.91 225.01,-394.11 204.12,-383 191.9,-376.5 182.17,-364.96 174.98,-353.73"/>
-<polygon fill="#0d2079" stroke="#0d2079" stroke-width="0.5" points="176.12,-353.23 173.23,-350.9 174.03,-354.52 176.12,-353.23"/>
-<text xml:space="preserve" text-anchor="middle" x="218" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d2079">4.51%</text>
-<text xml:space="preserve" text-anchor="middle" x="218" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d2079">1×</text>
+<!-- 116 -->
+<g id="node7" class="node">
+<title>116</title>
+<g id="a_node7"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<polygon fill="#0d1f78" stroke="#0d1f78" points="221.12,-350 98.62,-350 98.62,-294 221.12,-294 221.12,-350"/>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:31:count_chars</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.34%</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.00%)</text>
+<text xml:space="preserve" text-anchor="middle" x="159.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
+</a>
+</g>
+</g>
+<!-- 118&#45;&gt;116 -->
+<g id="edge7" class="edge">
+<title>118&#45;&gt;116</title>
+<path fill="none" stroke="#0d1f78" stroke-width="0.5" d="M538.09,-406.75C501.41,-401.41 456.99,-395.56 416.88,-392 393.31,-389.91 225.01,-394.11 204.12,-383 191.9,-376.5 182.17,-364.96 174.98,-353.73"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" stroke-width="0.5" points="176.12,-353.23 173.23,-350.9 174.03,-354.52 176.12,-353.23"/>
+<text xml:space="preserve" text-anchor="middle" x="218" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1f78">4.29%</text>
+<text xml:space="preserve" text-anchor="middle" x="218" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1f78">1×</text>
 </g>
 <!-- 148 -->
-<g id="node8" class="node">
+<g id="node9" class="node">
 <title>148</title>
-<g id="a_node8"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<g id="a_node9"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
 <polygon fill="#0d1174" stroke="#0d1174" points="368.5,-350 275.25,-350 275.25,-294 368.5,-294 368.5,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="321.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:62:top_n</text>
-<text xml:space="preserve" text-anchor="middle" x="321.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.00%</text>
+<text xml:space="preserve" text-anchor="middle" x="321.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.13%</text>
 <text xml:space="preserve" text-anchor="middle" x="321.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.01%)</text>
 <text xml:space="preserve" text-anchor="middle" x="321.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;148 -->
-<g id="edge6" class="edge">
-<title>117&#45;&gt;148</title>
+<!-- 118&#45;&gt;148 -->
+<g id="edge8" class="edge">
+<title>118&#45;&gt;148</title>
 <path fill="none" stroke="#0d1174" stroke-width="0.5" d="M538.26,-402.56C489.62,-390.91 426.26,-373.22 372.88,-350 372.71,-349.93 372.55,-349.86 372.39,-349.79"/>
 <polygon fill="#0d1174" stroke="#0d1174" stroke-width="0.5" points="373.37,-348.89 369.68,-348.58 372.37,-351.12 373.37,-348.89"/>
-<text xml:space="preserve" text-anchor="middle" x="478.07" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1174">0.96%</text>
+<text xml:space="preserve" text-anchor="middle" x="478.07" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1174">1.10%</text>
 <text xml:space="preserve" text-anchor="middle" x="478.07" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1174">1×</text>
 </g>
 <!-- 159 -->
-<g id="node9" class="node">
+<g id="node10" class="node">
 <title>159</title>
-<g id="a_node9"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#0d1274" stroke="#0d1274" points="498.38,-350 377.38,-350 377.38,-294 498.38,-294 498.38,-350"/>
+<g id="a_node10"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<polygon fill="#0d1275" stroke="#0d1275" points="498.38,-350 377.38,-350 377.38,-294 498.38,-294 498.38,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="437.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:166:&lt;genexpr&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="437.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.35%</text>
-<text xml:space="preserve" text-anchor="middle" x="437.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.93%)</text>
+<text xml:space="preserve" text-anchor="middle" x="437.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.38%</text>
+<text xml:space="preserve" text-anchor="middle" x="437.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.95%)</text>
 <text xml:space="preserve" text-anchor="middle" x="437.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">2437060×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;159 -->
-<g id="edge7" class="edge">
-<title>117&#45;&gt;159</title>
-<path fill="none" stroke="#0d1274" stroke-width="0.5" d="M557.71,-391.53C552.07,-388.71 546.47,-385.83 541.12,-383 523.1,-373.44 503.67,-362.36 486.58,-352.34"/>
-<polygon fill="#0d1274" stroke="#0d1274" stroke-width="0.5" points="487.48,-351.45 483.84,-350.74 486.24,-353.57 487.48,-351.45"/>
-<text xml:space="preserve" text-anchor="middle" x="562.5" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1274">1.35%</text>
-<text xml:space="preserve" text-anchor="middle" x="562.5" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1274">2437060×</text>
+<!-- 118&#45;&gt;159 -->
+<g id="edge9" class="edge">
+<title>118&#45;&gt;159</title>
+<path fill="none" stroke="#0d1275" stroke-width="0.5" d="M557.71,-391.53C552.07,-388.71 546.47,-385.83 541.12,-383 523.1,-373.44 503.67,-362.36 486.58,-352.34"/>
+<polygon fill="#0d1275" stroke="#0d1275" stroke-width="0.5" points="487.48,-351.45 483.84,-350.74 486.24,-353.57 487.48,-351.45"/>
+<text xml:space="preserve" text-anchor="middle" x="562.5" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1275">1.38%</text>
+<text xml:space="preserve" text-anchor="middle" x="562.5" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1275">2437060×</text>
 </g>
 <!-- 163 -->
-<g id="node10" class="node">
+<g id="node11" class="node">
 <title>163</title>
-<g id="a_node10"><a xlink:title="~">
-<polygon fill="#0d1274" stroke="#0d1274" points="401.25,-252 228.5,-252 228.5,-196 401.25,-196 401.25,-252"/>
+<g id="a_node11"><a xlink:title="~">
+<polygon fill="#0d1375" stroke="#0d1375" points="401.25,-252 228.5,-252 228.5,-196 401.25,-196 401.25,-252"/>
 <text xml:space="preserve" text-anchor="middle" x="314.88" y="-238.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;built&#45;in method builtins.sorted&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="314.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.23%</text>
-<text xml:space="preserve" text-anchor="middle" x="314.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(1.15%)</text>
+<text xml:space="preserve" text-anchor="middle" x="314.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.39%</text>
+<text xml:space="preserve" text-anchor="middle" x="314.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(1.30%)</text>
 <text xml:space="preserve" text-anchor="middle" x="314.88" y="-202.5" font-family="Arial" font-size="10.00" fill="#ffffff">28×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;163 -->
-<g id="edge8" class="edge">
-<title>117&#45;&gt;163</title>
+<!-- 118&#45;&gt;163 -->
+<g id="edge10" class="edge">
+<title>118&#45;&gt;163</title>
 <path fill="none" stroke="#0d0e73" stroke-width="0.5" d="M538.4,-407.28C431.93,-390.79 252.4,-361.49 243.12,-350 227.49,-330.63 233.38,-316.9 243.12,-294 249.49,-279.05 260.86,-265.77 272.7,-254.96"/>
 <polygon fill="#0d0e73" stroke="#0d0e73" stroke-width="0.5" points="273.36,-256.01 275.15,-252.76 271.73,-254.18 273.36,-256.01"/>
-<text xml:space="preserve" text-anchor="middle" x="257" y="-324.5" font-family="Arial" font-size="10.00" fill="#0d0e73">0.24%</text>
+<text xml:space="preserve" text-anchor="middle" x="257" y="-324.5" font-family="Arial" font-size="10.00" fill="#0d0e73">0.27%</text>
 <text xml:space="preserve" text-anchor="middle" x="257" y="-312.5" font-family="Arial" font-size="10.00" fill="#0d0e73">1×</text>
 </g>
 <!-- 178 -->
-<g id="node11" class="node">
+<g id="node12" class="node">
 <title>178</title>
-<g id="a_node11"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#0d3c80" stroke="#0d3c80" points="628.38,-350 507.38,-350 507.38,-294 628.38,-294 628.38,-350"/>
+<g id="a_node12"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<polygon fill="#0d3d80" stroke="#0d3d80" points="628.38,-350 507.38,-350 507.38,-294 628.38,-294 628.38,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="567.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:176:&lt;genexpr&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="567.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">10.25%</text>
-<text xml:space="preserve" text-anchor="middle" x="567.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(10.30%)</text>
+<text xml:space="preserve" text-anchor="middle" x="567.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">10.42%</text>
+<text xml:space="preserve" text-anchor="middle" x="567.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(10.48%)</text>
 <text xml:space="preserve" text-anchor="middle" x="567.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">57960674×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;178 -->
-<g id="edge9" class="edge">
-<title>117&#45;&gt;178</title>
-<path fill="none" stroke="#0d3c80" stroke-width="0.5" d="M602.25,-391.75C596.37,-379.99 589.47,-366.18 583.39,-354.03"/>
-<polygon fill="#0d3c80" stroke="#0d3c80" stroke-width="0.5" points="584.53,-353.58 581.87,-351 582.34,-354.68 584.53,-353.58"/>
-<text xml:space="preserve" text-anchor="middle" x="621.59" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d3c80">10.25%</text>
-<text xml:space="preserve" text-anchor="middle" x="621.59" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d3c80">57960674×</text>
+<!-- 118&#45;&gt;178 -->
+<g id="edge11" class="edge">
+<title>118&#45;&gt;178</title>
+<path fill="none" stroke="#0d3d80" stroke-width="0.5" d="M602.25,-391.75C596.37,-379.99 589.47,-366.18 583.39,-354.03"/>
+<polygon fill="#0d3d80" stroke="#0d3d80" stroke-width="0.5" points="584.53,-353.58 581.87,-351 582.34,-354.68 584.53,-353.58"/>
+<text xml:space="preserve" text-anchor="middle" x="621.59" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d3d80">10.42%</text>
+<text xml:space="preserve" text-anchor="middle" x="621.59" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d3d80">57960674×</text>
 </g>
 <!-- 179 -->
-<g id="node12" class="node">
+<g id="node13" class="node">
 <title>179</title>
-<g id="a_node12"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
-<polygon fill="#0c9b7c" stroke="#0c9b7c" points="758.38,-350 637.38,-350 637.38,-294 758.38,-294 758.38,-350"/>
+<g id="a_node13"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py">
+<polygon fill="#0c9b7a" stroke="#0c9b7a" points="758.38,-350 637.38,-350 637.38,-294 758.38,-294 758.38,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="697.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">analyzer:177:&lt;genexpr&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="697.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">30.35%</text>
-<text xml:space="preserve" text-anchor="middle" x="697.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(20.73%)</text>
+<text xml:space="preserve" text-anchor="middle" x="697.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">30.71%</text>
+<text xml:space="preserve" text-anchor="middle" x="697.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(20.89%)</text>
 <text xml:space="preserve" text-anchor="middle" x="697.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">57920901×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;179 -->
-<g id="edge10" class="edge">
-<title>117&#45;&gt;179</title>
-<path fill="none" stroke="#0c9b7c" stroke-width="1.21" d="M640.43,-391.56C642.95,-388.68 645.47,-385.79 647.88,-383 655.42,-374.23 663.49,-364.65 670.89,-355.76"/>
-<polygon fill="#0c9b7c" stroke="#0c9b7c" stroke-width="1.21" points="672.2,-357.2 674.24,-351.74 669.24,-354.74 672.2,-357.2"/>
-<text xml:space="preserve" text-anchor="middle" x="691.3" y="-373.5" font-family="Arial" font-size="10.00" fill="#0c9b7c">30.35%</text>
-<text xml:space="preserve" text-anchor="middle" x="691.3" y="-361.5" font-family="Arial" font-size="10.00" fill="#0c9b7c">57920901×</text>
+<!-- 118&#45;&gt;179 -->
+<g id="edge12" class="edge">
+<title>118&#45;&gt;179</title>
+<path fill="none" stroke="#0c9b7a" stroke-width="1.23" d="M640.43,-391.56C642.95,-388.68 645.47,-385.79 647.88,-383 655.42,-374.23 663.49,-364.65 670.89,-355.76"/>
+<polygon fill="#0c9b7a" stroke="#0c9b7a" stroke-width="1.23" points="672.18,-357.23 674.22,-351.77 669.22,-354.76 672.18,-357.23"/>
+<text xml:space="preserve" text-anchor="middle" x="691.3" y="-373.5" font-family="Arial" font-size="10.00" fill="#0c9b7a">30.71%</text>
+<text xml:space="preserve" text-anchor="middle" x="691.3" y="-361.5" font-family="Arial" font-size="10.00" fill="#0c9b7a">57920901×</text>
 </g>
 <!-- 274 -->
-<g id="node13" class="node">
+<g id="node14" class="node">
 <title>274</title>
-<g id="a_node13"><a xlink:title="~">
-<polygon fill="#0d2079" stroke="#0d2079" points="934.62,-350 767.12,-350 767.12,-294 934.62,-294 934.62,-350"/>
+<g id="a_node14"><a xlink:title="~">
+<polygon fill="#0d1f78" stroke="#0d1f78" points="934.62,-350 767.12,-350 767.12,-294 934.62,-294 934.62,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="850.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;add&#39; of &#39;set&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="850.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.52%</text>
-<text xml:space="preserve" text-anchor="middle" x="850.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(4.54%)</text>
+<text xml:space="preserve" text-anchor="middle" x="850.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">4.28%</text>
+<text xml:space="preserve" text-anchor="middle" x="850.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(4.30%)</text>
 <text xml:space="preserve" text-anchor="middle" x="850.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">9503330×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;274 -->
-<g id="edge11" class="edge">
-<title>117&#45;&gt;274</title>
-<path fill="none" stroke="#0d2079" stroke-width="0.5" d="M693.58,-392C701.48,-389.05 709.36,-386.02 716.88,-383 740.47,-373.53 766.01,-362.33 788.41,-352.19"/>
-<polygon fill="#0d2079" stroke="#0d2079" stroke-width="0.5" points="788.9,-353.32 791.58,-350.76 787.88,-351.09 788.9,-353.32"/>
-<text xml:space="preserve" text-anchor="middle" x="793.9" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d2079">4.52%</text>
-<text xml:space="preserve" text-anchor="middle" x="793.9" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d2079">9503296×</text>
+<!-- 118&#45;&gt;274 -->
+<g id="edge13" class="edge">
+<title>118&#45;&gt;274</title>
+<path fill="none" stroke="#0d1f78" stroke-width="0.5" d="M693.58,-392C701.48,-389.05 709.36,-386.02 716.88,-383 740.47,-373.53 766.01,-362.33 788.41,-352.19"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" stroke-width="0.5" points="788.9,-353.32 791.58,-350.76 787.88,-351.09 788.9,-353.32"/>
+<text xml:space="preserve" text-anchor="middle" x="793.9" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1f78">4.28%</text>
+<text xml:space="preserve" text-anchor="middle" x="793.9" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1f78">9503296×</text>
 </g>
 <!-- 284 -->
-<g id="node14" class="node">
+<g id="node15" class="node">
 <title>284</title>
-<g id="a_node14"><a xlink:title="~">
-<polygon fill="#0d1174" stroke="#0d1174" points="1111.62,-350 944.12,-350 944.12,-294 1111.62,-294 1111.62,-350"/>
+<g id="a_node15"><a xlink:title="~">
+<polygon fill="#0d1074" stroke="#0d1074" points="1111.62,-350 944.12,-350 944.12,-294 1111.62,-294 1111.62,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="1027.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;split&#39; of &#39;str&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="1027.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.96%</text>
-<text xml:space="preserve" text-anchor="middle" x="1027.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.96%)</text>
+<text xml:space="preserve" text-anchor="middle" x="1027.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.79%</text>
+<text xml:space="preserve" text-anchor="middle" x="1027.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.80%)</text>
 <text xml:space="preserve" text-anchor="middle" x="1027.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">234704×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;284 -->
-<g id="edge12" class="edge">
-<title>117&#45;&gt;284</title>
-<path fill="none" stroke="#0d1174" stroke-width="0.5" d="M693.5,-406.72C730.94,-400.38 776.4,-392.08 816.88,-383 871.68,-370.7 884.88,-365.49 938.88,-350 939.3,-349.88 939.73,-349.75 940.16,-349.63"/>
-<polygon fill="#0d1174" stroke="#0d1174" stroke-width="0.5" points="940.3,-350.87 943.32,-348.72 939.62,-348.51 940.3,-350.87"/>
-<text xml:space="preserve" text-anchor="middle" x="924.66" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1174">0.95%</text>
-<text xml:space="preserve" text-anchor="middle" x="924.66" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1174">234644×</text>
+<!-- 118&#45;&gt;284 -->
+<g id="edge14" class="edge">
+<title>118&#45;&gt;284</title>
+<path fill="none" stroke="#0d1074" stroke-width="0.5" d="M693.5,-406.72C730.94,-400.38 776.4,-392.08 816.88,-383 871.68,-370.7 884.88,-365.49 938.88,-350 939.3,-349.88 939.73,-349.75 940.16,-349.63"/>
+<polygon fill="#0d1074" stroke="#0d1074" stroke-width="0.5" points="940.3,-350.87 943.32,-348.72 939.62,-348.51 940.3,-350.87"/>
+<text xml:space="preserve" text-anchor="middle" x="924.66" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.78%</text>
+<text xml:space="preserve" text-anchor="middle" x="924.66" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1074">234644×</text>
 </g>
-<!-- 291 -->
-<g id="node15" class="node">
-<title>291</title>
-<g id="a_node15"><a xlink:title="~">
+<!-- 292 -->
+<g id="node16" class="node">
+<title>292</title>
+<g id="a_node16"><a xlink:title="~">
 <polygon fill="#0d1074" stroke="#0d1074" points="1293.25,-350 1120.5,-350 1120.5,-294 1293.25,-294 1293.25,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="1206.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;lower&#39; of &#39;str&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="1206.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.70%</text>
+<text xml:space="preserve" text-anchor="middle" x="1206.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.69%</text>
 <text xml:space="preserve" text-anchor="middle" x="1206.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.70%)</text>
 <text xml:space="preserve" text-anchor="middle" x="1206.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">236983×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;291 -->
-<g id="edge13" class="edge">
-<title>117&#45;&gt;291</title>
+<!-- 118&#45;&gt;292 -->
+<g id="edge15" class="edge">
+<title>118&#45;&gt;292</title>
 <path fill="none" stroke="#0d1074" stroke-width="0.5" d="M693.46,-413.27C792.56,-404.83 968.84,-385.99 1115.88,-350 1115.97,-349.98 1116.06,-349.96 1116.15,-349.93"/>
 <polygon fill="#0d1074" stroke="#0d1074" stroke-width="0.5" points="1116.39,-351.13 1119.49,-349.1 1115.8,-348.76 1116.39,-351.13"/>
-<text xml:space="preserve" text-anchor="middle" x="1094.79" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.69%</text>
+<text xml:space="preserve" text-anchor="middle" x="1094.79" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.68%</text>
 <text xml:space="preserve" text-anchor="middle" x="1094.79" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1074">236006×</text>
 </g>
-<!-- 298 -->
-<g id="node16" class="node">
-<title>298</title>
-<g id="a_node16"><a xlink:title="~">
+<!-- 299 -->
+<g id="node17" class="node">
+<title>299</title>
+<g id="a_node17"><a xlink:title="~">
 <polygon fill="#0d1976" stroke="#0d1976" points="1471,-350 1302.75,-350 1302.75,-294 1471,-294 1471,-350"/>
 <text xml:space="preserve" text-anchor="middle" x="1386.88" y="-336.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;strip&#39; of &#39;str&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="1386.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">2.90%</text>
-<text xml:space="preserve" text-anchor="middle" x="1386.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(2.91%)</text>
+<text xml:space="preserve" text-anchor="middle" x="1386.88" y="-324.5" font-family="Arial" font-size="10.00" fill="#ffffff">2.79%</text>
+<text xml:space="preserve" text-anchor="middle" x="1386.88" y="-312.5" font-family="Arial" font-size="10.00" fill="#ffffff">(2.81%)</text>
 <text xml:space="preserve" text-anchor="middle" x="1386.88" y="-300.5" font-family="Arial" font-size="10.00" fill="#ffffff">9739305×</text>
 </a>
 </g>
 </g>
-<!-- 117&#45;&gt;298 -->
-<g id="edge14" class="edge">
-<title>117&#45;&gt;298</title>
+<!-- 118&#45;&gt;299 -->
+<g id="edge16" class="edge">
+<title>118&#45;&gt;299</title>
 <path fill="none" stroke="#0d1976" stroke-width="0.5" d="M693.73,-417.97C821.59,-414.77 1083.29,-401.82 1297.88,-350 1298.17,-349.93 1298.46,-349.86 1298.76,-349.79"/>
 <polygon fill="#0d1976" stroke="#0d1976" stroke-width="0.5" points="1298.78,-351.04 1301.89,-349.01 1298.19,-348.66 1298.78,-351.04"/>
-<text xml:space="preserve" text-anchor="middle" x="1265.08" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1976">2.90%</text>
+<text xml:space="preserve" text-anchor="middle" x="1265.08" y="-373.5" font-family="Arial" font-size="10.00" fill="#0d1976">2.79%</text>
 <text xml:space="preserve" text-anchor="middle" x="1265.08" y="-361.5" font-family="Arial" font-size="10.00" fill="#0d1976">9739302×</text>
+</g>
+<!-- 116&#45;&gt;113 -->
+<g id="edge4" class="edge">
+<title>116&#45;&gt;113</title>
+<path fill="none" stroke="#0d1f78" stroke-width="0.5" d="M159.88,-293.75C159.88,-282.09 159.88,-268.42 159.88,-256.35"/>
+<polygon fill="#0d1f78" stroke="#0d1f78" stroke-width="0.5" points="161.1,-256.58 159.88,-253.08 158.65,-256.58 161.1,-256.58"/>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d1f78">4.33%</text>
+<text xml:space="preserve" text-anchor="middle" x="173.75" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d1f78">8×</text>
+</g>
+<!-- 424 -->
+<g id="node21" class="node">
+<title>424</title>
+<g id="a_node21"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/algorithms.py">
+<polygon fill="#0d1375" stroke="#0d1375" points="97.75,-252 0,-252 0,-196 97.75,-196 97.75,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="48.88" y="-238.5" font-family="Arial" font-size="10.00" fill="#ffffff">algorithms:493:isin</text>
+<text xml:space="preserve" text-anchor="middle" x="48.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">1.40%</text>
+<text xml:space="preserve" text-anchor="middle" x="48.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.89%)</text>
+<text xml:space="preserve" text-anchor="middle" x="48.88" y="-202.5" font-family="Arial" font-size="10.00" fill="#ffffff">4×</text>
+</a>
+</g>
+</g>
+<!-- 796&#45;&gt;424 -->
+<g id="edge23" class="edge">
+<title>796&#45;&gt;424</title>
+<path fill="none" stroke="#0d1375" stroke-width="0.5" d="M49.59,-293.75C49.47,-282.09 49.33,-268.42 49.2,-256.35"/>
+<polygon fill="#0d1375" stroke="#0d1375" stroke-width="0.5" points="50.43,-256.56 49.17,-253.08 47.98,-256.59 50.43,-256.56"/>
+<text xml:space="preserve" text-anchor="middle" x="63.37" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d1375">1.40%</text>
+<text xml:space="preserve" text-anchor="middle" x="63.37" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d1375">2×</text>
 </g>
 <!-- 148&#45;&gt;163 -->
 <g id="edge17" class="edge">
 <title>148&#45;&gt;163</title>
 <path fill="none" stroke="#0d1174" stroke-width="0.5" d="M319.89,-293.75C319.04,-282.09 318.04,-268.42 317.16,-256.35"/>
 <polygon fill="#0d1174" stroke="#0d1174" stroke-width="0.5" points="318.4,-256.48 316.92,-253.08 315.96,-256.66 318.4,-256.48"/>
-<text xml:space="preserve" text-anchor="middle" x="333.08" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d1174">0.98%</text>
+<text xml:space="preserve" text-anchor="middle" x="333.08" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d1174">1.12%</text>
 <text xml:space="preserve" text-anchor="middle" x="333.08" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d1174">4×</text>
 </g>
-<!-- 307 -->
+<!-- 308 -->
 <g id="node18" class="node">
-<title>307</title>
+<title>308</title>
 <g id="a_node18"><a xlink:title="~">
-<polygon fill="#0d3b80" stroke="#0d3b80" points="691.5,-252 508.25,-252 508.25,-196 691.5,-196 691.5,-252"/>
+<polygon fill="#0d3d80" stroke="#0d3d80" points="691.5,-252 508.25,-252 508.25,-196 691.5,-196 691.5,-252"/>
 <text xml:space="preserve" text-anchor="middle" x="599.88" y="-238.5" font-family="Arial" font-size="10.00" fill="#ffffff">~:0:&lt;method &#39;isspace&#39; of &#39;str&#39; objects&gt;</text>
-<text xml:space="preserve" text-anchor="middle" x="599.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">10.15%</text>
-<text xml:space="preserve" text-anchor="middle" x="599.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(10.21%)</text>
+<text xml:space="preserve" text-anchor="middle" x="599.88" y="-226.5" font-family="Arial" font-size="10.00" fill="#ffffff">10.37%</text>
+<text xml:space="preserve" text-anchor="middle" x="599.88" y="-214.5" font-family="Arial" font-size="10.00" fill="#ffffff">(10.42%)</text>
 <text xml:space="preserve" text-anchor="middle" x="599.88" y="-202.5" font-family="Arial" font-size="10.00" fill="#ffffff">55834381×</text>
 </a>
 </g>
 </g>
-<!-- 159&#45;&gt;307 -->
+<!-- 159&#45;&gt;308 -->
 <g id="edge18" class="edge">
-<title>159&#45;&gt;307</title>
+<title>159&#45;&gt;308</title>
 <path fill="none" stroke="#0d0f73" stroke-width="0.5" d="M483.86,-293.75C504.47,-281.54 528.81,-267.11 549.87,-254.63"/>
 <polygon fill="#0d0f73" stroke="#0d0f73" stroke-width="0.5" points="550.45,-255.71 552.84,-252.87 549.2,-253.6 550.45,-255.71"/>
-<text xml:space="preserve" text-anchor="middle" x="559.52" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d0f73">0.43%</text>
+<text xml:space="preserve" text-anchor="middle" x="559.52" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d0f73">0.44%</text>
 <text xml:space="preserve" text-anchor="middle" x="559.52" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d0f73">2203715×</text>
 </g>
-<!-- 179&#45;&gt;307 -->
+<!-- 179&#45;&gt;308 -->
 <g id="edge19" class="edge">
-<title>179&#45;&gt;307</title>
-<path fill="none" stroke="#0d397f" stroke-width="0.5" d="M670.05,-293.75C657.74,-281.69 643.22,-267.46 630.6,-255.09"/>
-<polygon fill="#0d397f" stroke="#0d397f" stroke-width="0.5" points="631.66,-254.42 628.31,-252.85 629.95,-256.18 631.66,-254.42"/>
-<text xml:space="preserve" text-anchor="middle" x="684.53" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d397f">9.72%</text>
-<text xml:space="preserve" text-anchor="middle" x="684.53" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d397f">53630562×</text>
+<title>179&#45;&gt;308</title>
+<path fill="none" stroke="#0d3a80" stroke-width="0.5" d="M670.05,-293.75C657.74,-281.69 643.22,-267.46 630.6,-255.09"/>
+<polygon fill="#0d3a80" stroke="#0d3a80" stroke-width="0.5" points="631.66,-254.42 628.31,-252.85 629.95,-256.18 631.66,-254.42"/>
+<text xml:space="preserve" text-anchor="middle" x="684.53" y="-275.5" font-family="Arial" font-size="10.00" fill="#0d3a80">9.93%</text>
+<text xml:space="preserve" text-anchor="middle" x="684.53" y="-263.5" font-family="Arial" font-size="10.00" fill="#0d3a80">53630562×</text>
 </g>
-<!-- 118 -->
-<g id="node17" class="node">
-<title>118</title>
-<g id="a_node17"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py">
-<polygon fill="#ff0000" stroke="#ff0000" points="443.5,-546 380.25,-546 380.25,-490 443.5,-490 443.5,-546"/>
-<text xml:space="preserve" text-anchor="middle" x="411.88" y="-532.5" font-family="Arial" font-size="10.00" fill="#ffffff">cli:48:main</text>
-<text xml:space="preserve" text-anchor="middle" x="411.88" y="-520.5" font-family="Arial" font-size="10.00" fill="#ffffff">100.00%</text>
-<text xml:space="preserve" text-anchor="middle" x="411.88" y="-508.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.75%)</text>
-<text xml:space="preserve" text-anchor="middle" x="411.88" y="-496.5" font-family="Arial" font-size="10.00" fill="#ffffff">1×</text>
-</a>
-</g>
-</g>
-<!-- 118&#45;&gt;116 -->
-<g id="edge15" class="edge">
-<title>118&#45;&gt;116</title>
-<path fill="none" stroke="#0d1375" stroke-width="0.5" d="M387.18,-489.75C376.34,-477.79 363.58,-463.7 352.43,-451.41"/>
-<polygon fill="#0d1375" stroke="#0d1375" stroke-width="0.5" points="353.4,-450.65 350.14,-448.88 351.59,-452.3 353.4,-450.65"/>
-<text xml:space="preserve" text-anchor="middle" x="392.6" y="-471.5" font-family="Arial" font-size="10.00" fill="#0d1375">1.52%</text>
-<text xml:space="preserve" text-anchor="middle" x="392.6" y="-459.5" font-family="Arial" font-size="10.00" fill="#0d1375">1×</text>
-</g>
-<!-- 118&#45;&gt;117 -->
-<g id="edge16" class="edge">
-<title>118&#45;&gt;117</title>
-<path fill="none" stroke="#fb1c01" stroke-width="3.89" d="M443.75,-502C470.32,-489.5 509.2,-471.2 543.29,-455.16"/>
-<polygon fill="#fb1c01" stroke="#fb1c01" stroke-width="3.89" points="544.74,-458.3 552.23,-450.95 541.79,-452.03 544.74,-458.3"/>
-<text xml:space="preserve" text-anchor="middle" x="554.65" y="-471.5" font-family="Arial" font-size="10.00" fill="#fb1c01">97.24%</text>
-<text xml:space="preserve" text-anchor="middle" x="554.65" y="-459.5" font-family="Arial" font-size="10.00" fill="#fb1c01">1×</text>
-</g>
-<!-- 435 -->
-<g id="node21" class="node">
-<title>435</title>
-<g id="a_node21"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/arrays/string_.py">
-<polygon fill="#0d1074" stroke="#0d1074" points="87.88,-154 5.88,-154 5.88,-98 87.88,-98 87.88,-154"/>
+<!-- 415 -->
+<g id="node20" class="node">
+<title>415</title>
+<g id="a_node20"><a xlink:title="/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site&#45;packages/pandas/core/arrays/string_.py">
+<polygon fill="#0d1174" stroke="#0d1174" points="87.88,-154 5.88,-154 5.88,-98 87.88,-98 87.88,-154"/>
 <text xml:space="preserve" text-anchor="middle" x="46.88" y="-140.5" font-family="Arial" font-size="10.00" fill="#ffffff">string_:897:isin</text>
-<text xml:space="preserve" text-anchor="middle" x="46.88" y="-128.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.87%</text>
-<text xml:space="preserve" text-anchor="middle" x="46.88" y="-116.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.08%)</text>
+<text xml:space="preserve" text-anchor="middle" x="46.88" y="-128.5" font-family="Arial" font-size="10.00" fill="#ffffff">0.94%</text>
+<text xml:space="preserve" text-anchor="middle" x="46.88" y="-116.5" font-family="Arial" font-size="10.00" fill="#ffffff">(0.09%)</text>
 <text xml:space="preserve" text-anchor="middle" x="46.88" y="-104.5" font-family="Arial" font-size="10.00" fill="#ffffff">2×</text>
 </a>
 </g>
 </g>
-<!-- 400&#45;&gt;435 -->
+<!-- 415&#45;&gt;424 -->
 <g id="edge21" class="edge">
-<title>400&#45;&gt;435</title>
-<path fill="none" stroke="#0d1074" stroke-width="0.5" d="M38.98,-195.7C38.22,-192.8 37.58,-189.86 37.12,-187 35.45,-176.47 35.72,-173.57 37.12,-163 37.32,-161.5 37.57,-159.97 37.85,-158.44"/>
-<polygon fill="#0d1074" stroke="#0d1074" stroke-width="0.5" points="39.03,-158.78 38.51,-155.11 36.63,-158.3 39.03,-158.78"/>
-<text xml:space="preserve" text-anchor="middle" x="51" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.87%</text>
-<text xml:space="preserve" text-anchor="middle" x="51" y="-165.5" font-family="Arial" font-size="10.00" fill="#0d1074">2×</text>
-</g>
-<!-- 435&#45;&gt;400 -->
-<g id="edge22" class="edge">
-<title>435&#45;&gt;400</title>
+<title>415&#45;&gt;424</title>
 <path fill="none" stroke="#0d1074" stroke-width="0.5" d="M60.33,-154.12C61.37,-157.06 62.25,-160.06 62.88,-163 65.09,-173.43 64.84,-176.52 62.88,-187 62.57,-188.63 62.19,-190.28 61.76,-191.94"/>
 <polygon fill="#0d1074" stroke="#0d1074" stroke-width="0.5" points="60.65,-191.36 60.87,-195.06 63,-192.04 60.65,-191.36"/>
-<text xml:space="preserve" text-anchor="middle" x="78.32" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.76%</text>
+<text xml:space="preserve" text-anchor="middle" x="78.32" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d1074">0.81%</text>
 <text xml:space="preserve" text-anchor="middle" x="78.32" y="-165.5" font-family="Arial" font-size="10.00" fill="#0d1074">2×</text>
+</g>
+<!-- 424&#45;&gt;415 -->
+<g id="edge22" class="edge">
+<title>424&#45;&gt;415</title>
+<path fill="none" stroke="#0d1174" stroke-width="0.5" d="M35.63,-195.87C34.61,-192.93 33.74,-189.94 33.12,-187 30.94,-176.56 31.19,-173.49 33.12,-163 33.43,-161.37 33.8,-159.72 34.22,-158.07"/>
+<polygon fill="#0d1174" stroke="#0d1174" stroke-width="0.5" points="35.33,-158.65 35.1,-154.95 32.97,-157.99 35.33,-158.65"/>
+<text xml:space="preserve" text-anchor="middle" x="47" y="-177.5" font-family="Arial" font-size="10.00" fill="#0d1174">0.94%</text>
+<text xml:space="preserve" text-anchor="middle" x="47" y="-165.5" font-family="Arial" font-size="10.00" fill="#0d1174">2×</text>
 </g>
 </g>
 </svg>

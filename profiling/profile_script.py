@@ -34,10 +34,7 @@ def run() -> None:
 
     profiler = cProfile.Profile()
     profiler.enable()
-    try:
-        main()
-    except SystemExit:
-        pass
+    main()
     profiler.disable()
 
     prof_path = results_dir / "profile.prof"

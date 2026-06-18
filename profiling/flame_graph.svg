@@ -5,543 +5,543 @@
 <style type="text/css">
     .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
 </style>
-<svg class="func_g" x="0.0" y="144" width="1205.0198563651418" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 100.50% (1 1 0.691076586 92.879951613)</title>
+<svg class="func_g" x="0.0" y="144" width="1205.103779556431" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 100.51% (1 1 0.6542556930000001 80.95403448100001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
 <svg class="func_g" x="0.0" y="120" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:1538:iterrows 0.14% (1218 1218 0.005660296 0.12578513)</title>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:1538:iterrows 0.14% (1218 1218 0.004843476 0.113104429)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">iterrows</text>
 </g></svg>
-<svg class="func_g" x="0.14610048718522894" y="96" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:369:__init__ 0.12% (1217 1217 0.012609649 0.10887310700000001)</title>
+<svg class="func_g" x="0.15386469760660332" y="96" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:369:__init__ 0.12% (1217 1217 0.011286017 0.09793351)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
 </g></svg>
-<svg class="func_g" x="2.466919510939552" y="120" width="1171.7628777101404" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 97.73% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="2.7897956974029046" y="120" width="1168.4881318508471" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 97.46% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="2.466919510939552" y="96" width="53.34992657802074" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31:count_chars 4.53% (1 1 0.000223446 4.185684443)</title>
+<svg class="func_g" x="2.7897956974029046" y="96" width="50.74645874953973" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31:count_chars 4.31% (1 1 0.00021004200000000002 3.4732372760000003)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">count_chars</text>
 </g></svg>
-<svg class="func_g" x="2.466919510939552" y="72" width="53.33998551450465" height="23"><g>
-    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602:__init__ 4.53% (8 8 6.878275704244314e-05 4.184918845739322)</title>
+<svg class="func_g" x="2.7897956974029046" y="72" width="50.708348256221086" height="23"><g>
+    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602:__init__ 4.31% (8 8 8.989116254129551e-05 3.470679288667153)</title>
     <rect height="100%" width="100%" fill="rgb(85, 218, 84)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
 </g></svg>
-<svg class="func_g" x="2.466919510939552" y="48" width="53.339092389892414" height="23"><g>
-    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679:update 4.53% (17 17 8.247919071797059e-05 4.18485006298228)</title>
+<svg class="func_g" x="2.7897956974029046" y="48" width="50.707009001524455" height="23"><g>
+    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679:update 4.31% (17 17 8.344559908198054e-05 3.470589397504612)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">update</text>
 </g></svg>
-<svg class="func_g" x="2.466919510939552" y="24" width="53.20628806052957" height="23"><g>
-    <title>~:0:&lt;built-in method _collections._count_elements&gt; 4.52% (10 10 4.1746223211916975 4.1746223211916975)</title>
+<svg class="func_g" x="2.7897956974029046" y="24" width="50.65349664488949" height="23"><g>
+    <title>~:0:&lt;built-in method _collections._count_elements&gt; 4.30% (10 10 3.466997632651856 3.466997632651856)</title>
     <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _collections._count_elements&gt;</text>
 </g></svg>
-<svg class="func_g" x="56.81684608896029" y="96" width="10.60804382305096" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62:top_n 0.97% (1 1 0.011232183000000001 0.893977444)</title>
+<svg class="func_g" x="54.536254446942635" y="96" width="12.24509379629283" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62:top_n 1.10% (1 1 0.010668861 0.8890145260000001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">top_n</text>
 </g></svg>
-<svg class="func_g" x="56.81689613922964" y="72" width="10.46207525528808" height="23"><g>
-    <title>~:0:&lt;built-in method builtins.sorted&gt; 0.96% (4 4 0.810533561956964 0.8827358765919004)</title>
+<svg class="func_g" x="54.53632822929461" y="72" width="12.085991684348121" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.sorted&gt; 1.09% (4 4 0.802925770379703 0.8783355462350011)</title>
     <rect height="100%" width="100%" fill="rgb(57, 242, 168)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.sorted&gt;</text>
 </g></svg>
-<svg class="func_g" x="68.42488991201125" y="96" width="15.341129049013961" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 1.36% (2437060 2437060 0.856716974 1.2584894580000001)</title>
+<svg class="func_g" x="67.78134824323546" y="96" width="15.654118098034466" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 1.39% (2437060 2437060 0.762620233 1.117829223)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="68.42488991201125" y="72" width="4.216901872043252" height="23"><g>
-    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 0.43% (2203715 2203715 0.40177248400000004 0.40177248400000004)</title>
+<svg class="func_g" x="67.78134824323546" y="72" width="4.292125440295046" height="23"><g>
+    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 0.44% (2203715 2203715 0.35520899 0.35520899)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'isspace' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="84.76601896102521" y="96" width="122.60812297909571" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176:&lt;genexpr&gt; 10.30% (57960674 57960674 9.519508672 9.519508672)</title>
+<svg class="func_g" x="84.43546634126993" y="96" width="124.72134772384358" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176:&lt;genexpr&gt; 10.48% (57960674 57960674 8.438453217000001 8.438453217000001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="208.3741419401209" y="96" width="365.0501133817999" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 30.50% (57920901 57920901 19.160876227000003 28.190843326000003)</title>
+<svg class="func_g" x="210.15681406511354" y="96" width="369.3687408496614" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 30.86% (57920901 57920901 16.821918314 24.859256994000003)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="208.3741419401209" y="72" width="116.25156435367552" height="23"><g>
-    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 9.77% (53630562 53630562 9.029967099 9.029967099)</title>
+<svg class="func_g" x="210.15681406511354" y="72" width="118.74529276608514" height="23"><g>
+    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 9.98% (53630562 53630562 8.037338680000001 8.037338680000001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'isspace' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="574.9770292146504" y="96" width="1.928167382015031" height="23"><g>
-    <title>~:0:&lt;built-in method builtins.sorted&gt; 0.24% (1 1 0.225508762 0.225508762)</title>
+<svg class="func_g" x="581.0244425894623" y="96" width="2.232891270402223" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.sorted&gt; 0.27% (1 1 0.216992597 0.216992597)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.sorted&gt;</text>
 </g></svg>
-<svg class="func_g" x="577.9059572673376" y="96" width="53.49814467772471" height="23"><g>
-    <title>~:0:&lt;method 'add' of 'set' objects&gt; 4.54% (9503296 9503296 4.197099255 4.197099255)</title>
+<svg class="func_g" x="584.2578156366923" y="96" width="50.61178135007318" height="23"><g>
+    <title>~:0:&lt;method 'add' of 'set' objects&gt; 4.30% (9503296 9503296 3.46419769 3.46419769)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'add' of 'set' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="632.404112449698" y="96" width="7.380431371141494" height="23"><g>
-    <title>~:0:&lt;method 'lower' of 'str' objects&gt; 0.70% (236006 236006 0.645407334 0.645407334)</title>
+<svg class="func_g" x="635.8696084587064" y="96" width="7.248089194094044" height="23"><g>
+    <title>~:0:&lt;method 'lower' of 'str' objects&gt; 0.69% (236006 236006 0.553614132 0.553614132)</title>
     <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'lower' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="640.7845438208394" y="96" width="6.876677017226637" height="23"><g>
-    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.66% (1 1 0.353515338 0.606611389)</title>
+<svg class="func_g" x="644.1176976528004" y="96" width="6.998926724727614" height="23"><g>
+    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.67% (1 1 0.36275111600000004 0.5368902750000001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'read' of '_io.TextIOWrapper' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="640.7845438208394" y="72" width="2.2863805134765127" height="23"><g>
-    <title>&lt;frozen codecs&gt;:322:decode 0.27% (4 4 3.198159971876145e-05 0.253096051)</title>
+<svg class="func_g" x="644.1176976528004" y="72" width="1.594433979543942" height="23"><g>
+    <title>&lt;frozen codecs&gt;:322:decode 0.22% (4 4 3.4673964631785655e-05 0.17413915900000004)</title>
     <rect height="100%" width="100%" fill="rgb(44, 255, 210)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decode</text>
 </g></svg>
-<svg class="func_g" x="640.7845438208394" y="48" width="2.2859652414653917" height="23"><g>
-    <title>~:0:&lt;built-in method _codecs.utf_8_decode&gt; 0.27% (4 4 0.2530640694002812 0.2530640694002812)</title>
+<svg class="func_g" x="644.1176976528004" y="48" width="1.5939173851572295" height="23"><g>
+    <title>~:0:&lt;built-in method _codecs.utf_8_decode&gt; 0.22% (4 4 0.17410448503536827 0.17410448503536827)</title>
     <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _codecs.utf_8_decode&gt;</text>
 </g></svg>
-<svg class="func_g" x="648.6612208380661" y="96" width="10.433359897265802" height="23"><g>
-    <title>~:0:&lt;method 'split' of 'str' objects&gt; 0.95% (234644 234644 0.880524403 0.880524403)</title>
+<svg class="func_g" x="652.1166243775281" y="96" width="8.413077008356423" height="23"><g>
+    <title>~:0:&lt;method 'split' of 'str' objects&gt; 0.78% (234644 234644 0.631808451 0.631808451)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'split' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="660.094580735332" y="96" width="1.7743921871467734" height="23"><g>
-    <title>~:0:&lt;method 'splitlines' of 'str' objects&gt; 0.23% (1 1 0.213665978 0.213665978)</title>
+<svg class="func_g" x="661.5297013858844" y="96" width="1.8356201125978484" height="23"><g>
+    <title>~:0:&lt;method 'splitlines' of 'str' objects&gt; 0.24% (1 1 0.19032764200000002 0.19032764200000002)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'splitlines' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="662.8689729224789" y="96" width="33.94554334842805" height="23"><g>
-    <title>~:0:&lt;method 'strip' of 'str' objects&gt; 2.91% (9739302 9739302 2.6912827000000004 2.6912827000000004)</title>
+<svg class="func_g" x="664.3653214984822" y="96" width="32.702185020154545" height="23"><g>
+    <title>~:0:&lt;method 'strip' of 'str' objects&gt; 2.81% (9739302 9739302 2.262100405 2.262100405)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'strip' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1175.22979722108" y="120" width="1.789380887083634" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:206:preprocess_and_tokenize 0.23% (3 3 0.02523022 0.214820312)</title>
+<svg class="func_g" x="1172.2779275482499" y="120" width="1.9943877688173397" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:206:preprocess_and_tokenize 0.25% (3 3 0.022905709 0.20098417300000002)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">preprocess_and_tokenize</text>
 </g></svg>
-<svg class="func_g" x="1178.0191781081637" y="120" width="17.31507693550471" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 1.53% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="1175.2723153170673" y="120" width="19.22524299753516" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 1.69% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">build_works_dataframe</text>
 </g></svg>
-<svg class="func_g" x="1178.360557411449" y="96" width="15.415134169193685" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 1.37% (2 2 0.063384651 1.26418886)</title>
+<svg class="func_g" x="1176.0186915410388" y="96" width="16.748470236304094" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 1.48% (2 2 0.05973731300000001 1.191282455)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1178.360557411449" y="72" width="14.592094617695594" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 1.30% (2 2 0.063659903 1.200803607)</title>
+<svg class="func_g" x="1176.0186915410388" y="72" width="15.858458859447076" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 1.40% (2 2 0.06174682200000001 1.1315446340000002)</title>
     <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1178.360557411449" y="48" width="3.232775478573836" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.35% (6 6 0.10103653336192506 0.32598135060854366)</title>
+<svg class="func_g" x="1176.0186915410388" y="48" width="3.632603760488517" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.39% (6 6 0.09385805002921631 0.3109417041221128)</title>
     <rect height="100%" width="100%" fill="rgb(99, 206, 42)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_ensure_arraylike</text>
 </g></svg>
-<svg class="func_g" x="1178.3610118975273" y="24" width="1.9180178598904467" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468:construct_1d_object_array_from_listlike 0.24% (4 4 2.341570189272273e-05 0.22472711058783532)</title>
+<svg class="func_g" x="1176.019310840379" y="24" width="2.230964100902388" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468:construct_1d_object_array_from_listlike 0.27% (4 4 1.9453961599741726e-05 0.21686324482584654)</title>
     <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">construct_1d_object_array_from_listlike</text>
 </g></svg>
-<svg class="func_g" x="1178.3611397942693" y="0" width="1.917585916893564" height="23"><g>
-    <title>~:0:&lt;built-in method numpy.fromiter&gt; 0.24% (39 39 0.22469384509519993 0.22469384509519993)</title>
+<svg class="func_g" x="1176.0195123456933" y="0" width="2.230472758314608" height="23"><g>
+    <title>~:0:&lt;built-in method numpy.fromiter&gt; 0.27% (39 39 0.21683026576926173 0.21683026576926173)</title>
     <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method numpy.fromiter&gt;</text>
 </g></svg>
-<svg class="func_g" x="1182.5933328900228" y="48" width="9.531410921253144" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.88% (2 2 0.07151227707915722 0.8110620497830834)</title>
+<svg class="func_g" x="1180.6512953015272" y="48" width="10.304339948595064" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.94% (2 2 0.07450281491396957 0.7587505664894516)</title>
     <rect height="100%" width="100%" fill="rgb(99, 206, 42)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1182.5933328900228" y="24" width="8.197221453123051" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.77% (2 2 0.7082274999215485 0.7083112927466432)</title>
+<svg class="func_g" x="1180.6512953015272" y="24" width="8.76078482668566" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.81% (2 2 0.6550695528848556 0.6551467003210415)</title>
     <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="0.10000337959821431" y="192" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.11% (28 28 0.101068191 0.326131151)</title>
+<svg class="func_g" x="0.10665843496858855" y="192" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.12% (28 28 0.093900339 0.31109601000000003)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_ensure_arraylike</text>
 </g></svg>
-<svg class="func_g" x="0.10000337959821431" y="216" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.11% (6 6 0.101043979 0.32600537300000004)</title>
+<svg class="func_g" x="0.10665843496858855" y="216" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.12% (6 6 0.093864819 0.31096412900000003)</title>
     <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1.4172397934104444" y="192" width="9.02341691732903" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.84% (2 4 0.771939594 1.200803607)</title>
+<svg class="func_g" x="1.5107043968170413" y="192" width="9.680282022253293" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.89% (2 4 0.7168636180000001 1.1315446340000002)</title>
     <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1.4172397934104444" y="216" width="2.7190157951293425" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.77% (2 2 0.708279691 0.7083634900000001)</title>
+<svg class="func_g" x="1.5107043968170413" y="216" width="2.9164409506647124" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.81% (2 2 0.6551167960000001 0.655193949)</title>
     <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1.4172397934104444" y="240" width="2.7190157951293425" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.08% (2 2 0.071517547 0.811121819)</title>
+<svg class="func_g" x="1.5107043968170413" y="240" width="2.9164409506647124" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.09% (2 2 0.074508188 0.758805287)</title>
     <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="1.4172397934104444" y="264" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.77% (2 2 0.708279691 0.7083634900000001)</title>
+<svg class="func_g" x="1.5107043968170413" y="264" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897:isin 0.81% (2 2 0.6551167960000001 0.655193949)</title>
     <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="2.797116396219374" y="264" width="1.3391391923204132" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.07% (2 2 0.063659903 1.200803607)</title>
+<svg class="func_g" x="2.9468565216471156" y="264" width="1.4802888258346378" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.08% (2 2 0.06174682200000001 1.1315446340000002)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="2.797116396219374" y="288" width="1.3391391923204132" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.063384651 1.26418886)</title>
+<svg class="func_g" x="2.9468565216471156" y="288" width="1.4802888258346378" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.05973731300000001 1.191282455)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">build_works_dataframe</text>
 </g></svg>
-<svg class="func_g" x="2.797116396219374" y="312" width="1.3391391923204137" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 0.12% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="2.9468565216471156" y="312" width="1.4802888258346378" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 0.13% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="5.136255588539787" y="216" width="5.304401122199687" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.07% (2 2 0.063659903 1.200803607)</title>
+<svg class="func_g" x="5.427145347481754" y="216" width="5.7638410715885815" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.08% (2 2 0.06174682200000001 1.1315446340000002)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="5.136255588539787" y="240" width="5.304401122199687" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.063384651 1.26418886)</title>
+<svg class="func_g" x="5.427145347481754" y="240" width="5.7638410715885815" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.05973731300000001 1.191282455)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">build_works_dataframe</text>
 </g></svg>
-<svg class="func_g" x="5.136255588539787" y="264" width="5.304401122199687" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 0.12% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="5.427145347481754" y="264" width="5.7638410715885815" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 0.13% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="17.33592336898636" y="192" width="470.39480514912225" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="19.287276553161547" y="192" width="467.10573942104986" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="17.33592336898636" y="216" width="470.39480514912225" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="19.287276553161547" y="216" width="467.10573942104986" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="488.73072851810866" y="192" width="10.12422717697071" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 0.93% (2437060 2437060 0.856716974 1.2584894580000001)</title>
+<svg class="func_g" x="487.39301597421144" y="192" width="10.361992657739421" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 0.95% (2437060 2437060 0.762620233 1.117829223)</title>
     <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="488.73072851810866" y="216" width="10.124227176970708" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.93% (2437060 2437060 0.856716974 1.2584894580000001)</title>
+<svg class="func_g" x="487.39301597421144" y="216" width="10.361992657739421" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.95% (2437060 2437060 0.762620233 1.117829223)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="488.73072851810866" y="240" width="10.124227176970704" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="487.39301597421144" y="240" width="10.361992657739421" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="499.85495569507935" y="192" width="122.60812297909571" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176:&lt;genexpr&gt; 10.30% (57960674 57960674 9.519508672 9.519508672)</title>
+<svg class="func_g" x="498.75500863195083" y="192" width="124.72134772384358" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176:&lt;genexpr&gt; 10.48% (57960674 57960674 8.438453217000001 8.438453217000001)</title>
     <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="499.85495569507935" y="216" width="122.60812297909571" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 10.30% (57960674 57960674 9.519508672 9.519508672)</title>
+<svg class="func_g" x="498.75500863195083" y="216" width="124.72134772384358" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 10.48% (57960674 57960674 8.438453217000001 8.438453217000001)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="499.85495569507935" y="240" width="122.60812297909571" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="498.75500863195083" y="240" width="124.72134772384358" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="623.463078674175" y="192" width="247.79854902812443" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 20.73% (57920901 57920901 19.160876227000003 28.190843326000003)</title>
+<svg class="func_g" x="624.4763563557945" y="192" width="249.62344808357625" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 20.89% (57920901 57920901 16.821918314 24.859256994000003)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="623.463078674175" y="216" width="247.79854902812443" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 20.73% (57920901 57920901 19.160876227000003 28.190843326000003)</title>
+<svg class="func_g" x="624.4763563557945" y="216" width="249.62344808357625" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 20.89% (57920901 57920901 16.821918314 24.859256994000003)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="623.463078674175" y="240" width="247.79854902812443" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="624.4763563557945" y="240" width="249.62344808357625" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="872.5892349606156" y="192" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.12% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="875.4410680017791" y="192" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.13% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">build_works_dataframe</text>
 </g></svg>
-<svg class="func_g" x="872.5892349606156" y="216" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 0.12% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="875.4410680017791" y="216" width="1" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 0.13% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="874.1000553473995" y="192" width="7.973433669062958" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 0.75% (1 1 0.691076586 92.879951613)</title>
+<svg class="func_g" x="877.1148300840074" y="192" width="8.747510042983894" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 0.81% (1 1 0.6542556930000001 80.95403448100001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="883.1695527551137" y="192" width="2.3081993951239426" height="23"><g>
-    <title>~:0:&lt;built-in method _codecs.utf_8_decode&gt; 0.28% (4 4 0.254776402 0.254776402)</title>
+<svg class="func_g" x="886.9764360895091" y="192" width="1.6159886244566408" height="23"><g>
+    <title>~:0:&lt;built-in method _codecs.utf_8_decode&gt; 0.22% (4 4 0.175585913 0.175585913)</title>
     <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _codecs.utf_8_decode&gt;</text>
 </g></svg>
-<svg class="func_g" x="883.1695527551137" y="216" width="2.3081993951239426" height="23"><g>
-    <title>&lt;frozen codecs&gt;:322:decode 0.28% (4 4 0.254776402 0.254776402)</title>
+<svg class="func_g" x="886.9764360895091" y="216" width="1.6159886244566408" height="23"><g>
+    <title>&lt;frozen codecs&gt;:322:decode 0.22% (4 4 0.175585913 0.175585913)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decode</text>
 </g></svg>
-<svg class="func_g" x="883.1695527551137" y="240" width="2.3081993951239426" height="23"><g>
-    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.00% (4 4 3.2198e-05 0.2548086)</title>
+<svg class="func_g" x="886.9764360895091" y="240" width="1.6159886244566408" height="23"><g>
+    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.00% (4 4 3.4969000000000003e-05 0.175620882)</title>
     <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'read' of '_io.TextIOWrapper' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="883.1695527551137" y="264" width="2.2533197741316444" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.38% (1 1 0.353515338 0.606611389)</title>
+<svg class="func_g" x="886.9764360895091" y="264" width="1.5864070920386366" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.45% (1 1 0.36275111600000004 0.5368902750000001)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="883.1695527551137" y="288" width="2.2533197741316444" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="886.9764360895091" y="288" width="1.5864070920386366" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="886.4777521502377" y="192" width="54.07059229899881" height="23"><g>
-    <title>~:0:&lt;built-in method _collections._count_elements&gt; 4.59% (10 10 4.241185517 4.241185517)</title>
+<svg class="func_g" x="889.5924247139657" y="192" width="51.482847725124" height="23"><g>
+    <title>~:0:&lt;built-in method _collections._count_elements&gt; 4.37% (10 10 3.522663917 3.522663917)</title>
     <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _collections._count_elements&gt;</text>
 </g></svg>
-<svg class="func_g" x="886.4777521502377" y="216" width="54.07059229899881" height="23"><g>
-    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679:update 4.59% (10 10 4.241185517 4.241185517)</title>
+<svg class="func_g" x="889.5924247139657" y="216" width="51.482847725124" height="23"><g>
+    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679:update 4.37% (10 10 3.522663917 3.522663917)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">update</text>
 </g></svg>
-<svg class="func_g" x="886.4799021133097" y="240" width="54.06844233592688" height="23"><g>
-    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602:__init__ 0.00% (17 17 8.3793e-05 4.251510451000001)</title>
+<svg class="func_g" x="889.5943817405976" y="240" width="51.48089069849221" height="23"><g>
+    <title>/usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602:__init__ 0.00% (17 17 8.478400000000001e-05 3.5262548860000003)</title>
     <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
 </g></svg>
-<svg class="func_g" x="886.4799021133097" y="264" width="53.712607859602194" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31:count_chars 0.00% (8 8 6.9429e-05 4.22423792)</title>
+<svg class="func_g" x="889.5943817405976" y="264" width="51.206672303963416" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31:count_chars 0.00% (8 8 9.0858e-05 3.5080086840000004)</title>
     <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">count_chars</text>
 </g></svg>
-<svg class="func_g" x="886.4799021133097" y="288" width="53.19798822146244" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.00% (1 1 0.000223446 4.185684443)</title>
+<svg class="func_g" x="889.5943817405976" y="288" width="50.64465616798581" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.00% (1 1 0.00021004200000000002 3.4732372760000003)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="886.4799021133097" y="312" width="53.19798822146244" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="889.5943817405976" y="312" width="50.64465616798581" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="942.408687507603" y="192" width="12.814228548153435" height="23"><g>
-    <title>~:0:&lt;built-in method builtins.sorted&gt; 1.15% (28 28 1.06388371 1.138626838)</title>
+<svg class="func_g" x="942.950587723128" y="192" width="14.58182583194053" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.sorted&gt; 1.30% (28 28 1.045856656 1.123756953)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.sorted&gt;</text>
 </g></svg>
-<svg class="func_g" x="942.4141470808831" y="216" width="10.072109778523465" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62:top_n 0.91% (4 4 0.8379640500000001 0.9126098720000001)</title>
+<svg class="func_g" x="942.9562643672768" y="216" width="11.566692802340972" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62:top_n 1.03% (4 4 0.8284951740000001 0.9063063960000001)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">top_n</text>
 </g></svg>
-<svg class="func_g" x="942.4141470808831" y="240" width="9.702887872391033" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.01% (1 1 0.011232183000000001 0.893977444)</title>
+<svg class="func_g" x="942.9562643672768" y="240" width="11.170372958230821" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.01% (1 1 0.010668861 0.8890145260000001)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="942.4141470808831" y="264" width="9.702887872391031" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="942.9562643672768" y="264" width="11.170372958230821" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="953.4862568594068" y="216" width="1.7359530567108745" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.24% (1 1 0.225508762 0.225508762)</title>
+<svg class="func_g" x="955.5229571696177" y="216" width="2.0087830328863476" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.27% (1 1 0.216992597 0.216992597)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="953.4862568594068" y="240" width="1.7359530567108745" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="955.5229571696177" y="240" width="2.0087830328863476" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="956.2710690984578" y="192" width="1.9268303457391367" height="23"><g>
-    <title>~:0:&lt;built-in method numpy.fromiter&gt; 0.24% (39 39 0.22540579200000002 0.22540579200000002)</title>
+<svg class="func_g" x="958.5972112943554" y="192" width="2.2495580937047532" height="23"><g>
+    <title>~:0:&lt;built-in method numpy.fromiter&gt; 0.27% (39 39 0.21811127900000002 0.21811127900000002)</title>
     <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method numpy.fromiter&gt;</text>
 </g></svg>
-<svg class="func_g" x="956.2710690984578" y="216" width="1.9268303457391367" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468:construct_1d_object_array_from_listlike 0.24% (39 39 0.22540579200000002 0.22540579200000002)</title>
+<svg class="func_g" x="958.5972112943554" y="216" width="2.2495580937047532" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468:construct_1d_object_array_from_listlike 0.27% (39 39 0.21811127900000002 0.21811127900000002)</title>
     <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">construct_1d_object_array_from_listlike</text>
 </g></svg>
-<svg class="func_g" x="956.2710690984578" y="240" width="1.9183164520283995" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.00% (4 4 2.3428e-05 0.22484513900000003)</title>
+<svg class="func_g" x="958.5972112943554" y="240" width="2.230462281764307" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228:_ensure_arraylike 0.00% (4 4 1.9464000000000002e-05 0.216975148)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_ensure_arraylike</text>
 </g></svg>
-<svg class="func_g" x="956.2710690984578" y="264" width="1.9171909538796403" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.11% (6 6 0.101043979 0.32600537300000004)</title>
+<svg class="func_g" x="958.5972112943554" y="264" width="2.2290928119463516" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493:isin 0.12% (6 6 0.093864819 0.31096412900000003)</title>
     <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="957.3534424372472" y="288" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.07% (2 2 0.063659903 1.200803607)</title>
+<svg class="func_g" x="959.7813140451866" y="288" width="1.0449900611150933" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675:isin 0.08% (2 2 0.06174682200000001 1.1315446340000002)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">isin</text>
 </g></svg>
-<svg class="func_g" x="957.3534424372472" y="312" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.063384651 1.26418886)</title>
+<svg class="func_g" x="959.7813140451866" y="312" width="1.0449900611150933" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275:build_works_dataframe 0.07% (2 2 0.05973731300000001 1.191282455)</title>
     <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">build_works_dataframe</text>
 </g></svg>
-<svg class="func_g" x="957.3534424372472" y="336" width="1" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 0.12% (1 1 0.10933812400000001 1.4105103250000002)</title>
+<svg class="func_g" x="959.7813140451866" y="336" width="1.0449900611150933" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 0.13% (1 1 0.10465118300000001 1.357524159)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="959.3656419222343" y="192" width="53.498326035262494" height="23"><g>
-    <title>~:0:&lt;method 'add' of 'set' objects&gt; 4.54% (9503330 9503330 4.1971132220000005 4.1971132220000005)</title>
+<svg class="func_g" x="961.9085671849682" y="192" width="50.61199818465741" height="23"><g>
+    <title>~:0:&lt;method 'add' of 'set' objects&gt; 4.30% (9503330 9503330 3.464212244 3.464212244)</title>
     <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'add' of 'set' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="959.365761044025" y="216" width="53.49814467772471" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 4.54% (9503296 9503296 4.197099255 4.197099255)</title>
+<svg class="func_g" x="961.9087038351543" y="216" width="50.61178135007318" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 4.30% (9503296 9503296 3.46419769 3.46419769)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="959.365761044025" y="240" width="53.49814467772471" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="961.9087038351543" y="240" width="50.61178135007318" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1014.5556482849856" y="192" width="121.46879818000052" height="23"><g>
-    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 10.21% (55834381 55834381 9.431765148 9.431765148)</title>
+<svg class="func_g" x="1014.3317297083731" y="192" width="124.03777416432206" height="23"><g>
+    <title>~:0:&lt;method 'isspace' of 'str' objects&gt; 10.42% (55834381 55834381 8.392571562 8.392571562)</title>
     <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'isspace' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1014.5559802392676" y="216" width="4.216901872043252" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 0.43% (2203715 2203715 0.40177248400000004 0.40177248400000004)</title>
+<svg class="func_g" x="1014.332085666315" y="216" width="4.292125440295046" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166:&lt;genexpr&gt; 0.44% (2203715 2203715 0.35520899 0.35520899)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="1014.5559802392676" y="240" width="4.216901872043252" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.93% (2437060 2437060 0.856716974 1.2584894580000001)</title>
+<svg class="func_g" x="1014.332085666315" y="240" width="4.292125440295046" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.95% (2437060 2437060 0.762620233 1.117829223)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1014.5559802392676" y="264" width="4.216901872043252" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1014.332085666315" y="264" width="4.292125440295046" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1019.7728821113109" y="216" width="116.25156435367552" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 9.77% (53630562 53630562 9.029967099 9.029967099)</title>
+<svg class="func_g" x="1019.6242111066101" y="216" width="118.74529276608514" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177:&lt;genexpr&gt; 9.98% (53630562 53630562 8.037338680000001 8.037338680000001)</title>
     <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;genexpr&gt;</text>
 </g></svg>
-<svg class="func_g" x="1019.7728821113109" y="240" width="116.25156435367552" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 20.73% (57920901 57920901 19.160876227000003 28.190843326000003)</title>
+<svg class="func_g" x="1019.6242111066101" y="240" width="118.74529276608514" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 20.89% (57920901 57920901 16.821918314 24.859256994000003)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1019.7728821113109" y="264" width="116.25156435367552" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1019.6242111066101" y="264" width="118.74529276608514" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1137.0251638056588" y="192" width="7.4525582780237976" height="23"><g>
-    <title>~:0:&lt;method 'lower' of 'str' objects&gt; 0.70% (236983 236983 0.650962088 0.650962088)</title>
+<svg class="func_g" x="1139.3703011130028" y="192" width="7.355894659281443" height="23"><g>
+    <title>~:0:&lt;method 'lower' of 'str' objects&gt; 0.70% (236983 236983 0.560850066 0.560850066)</title>
     <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'lower' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1137.0283161572647" y="216" width="7.380431371141492" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.70% (236006 236006 0.645407334 0.645407334)</title>
+<svg class="func_g" x="1139.4016174560231" y="216" width="7.248089194094044" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.69% (236006 236006 0.553614132 0.553614132)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1137.0283161572647" y="240" width="7.380431371141492" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1139.4016174560231" y="240" width="7.248089194094044" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1145.5059434953973" y="192" width="3.700929678821409" height="23"><g>
-    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.39% (4 4 0.36203559900000004 0.6168441990000001)</title>
+<svg class="func_g" x="1147.7453909219996" y="192" width="4.473903292366814" height="23"><g>
+    <title>~:0:&lt;method 'read' of '_io.TextIOWrapper' objects&gt; 0.46% (4 4 0.36740997200000003 0.5430308540000001)</title>
     <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'read' of '_io.TextIOWrapper' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1145.5059434953973" y="216" width="3.622946096735814" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.38% (1 1 0.353515338 0.606611389)</title>
+<svg class="func_g" x="1147.7453909219996" y="216" width="4.412004534022709" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.45% (1 1 0.36275111600000004 0.5368902750000001)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1145.5059434953973" y="240" width="3.622946096735814" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1147.7453909219996" y="240" width="4.412004534022711" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1150.2452633330713" y="192" width="10.561331954053028" height="23"><g>
-    <title>~:0:&lt;method 'split' of 'str' objects&gt; 0.96% (234704 234704 0.890379994 0.890379994)</title>
+<svg class="func_g" x="1153.3185607860705" y="192" width="8.564013887826931" height="23"><g>
+    <title>~:0:&lt;method 'split' of 'str' objects&gt; 0.80% (234704 234704 0.641939378 0.641939378)</title>
     <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'split' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1150.2459782715714" y="216" width="10.433359897265802" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.95% (234644 234644 0.880524403 0.880524403)</title>
+<svg class="func_g" x="1153.319377916042" y="216" width="8.413077008356423" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.78% (234644 234644 0.631808451 0.631808451)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1150.2459782715714" y="240" width="10.433359897265804" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1153.319377916042" y="240" width="8.413077008356423" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1161.8065952871243" y="192" width="1.7743921871467734" height="23"><g>
-    <title>~:0:&lt;method 'splitlines' of 'str' objects&gt; 0.23% (1 1 0.213665978 0.213665978)</title>
+<svg class="func_g" x="1162.8825746738976" y="192" width="1.8356201125978484" height="23"><g>
+    <title>~:0:&lt;method 'splitlines' of 'str' objects&gt; 0.24% (1 1 0.19032764200000002 0.19032764200000002)</title>
     <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'splitlines' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1161.8065952871243" y="216" width="1.7743921871467734" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.23% (1 1 0.213665978 0.213665978)</title>
+<svg class="func_g" x="1162.8825746738976" y="216" width="1.8356201125978484" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 0.24% (1 1 0.19032764200000002 0.19032764200000002)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1161.8065952871243" y="240" width="1.7743921871467734" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1162.8825746738976" y="240" width="1.8356201125978484" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>
-<svg class="func_g" x="1164.581119606748" y="192" width="33.94557838119364" height="23"><g>
-    <title>~:0:&lt;method 'strip' of 'str' objects&gt; 2.91% (9739305 9739305 2.691285398 2.691285398)</title>
+<svg class="func_g" x="1165.7183518180002" y="192" width="32.702214549228756" height="23"><g>
+    <title>~:0:&lt;method 'strip' of 'str' objects&gt; 2.81% (9739305 9739305 2.262102387 2.262102387)</title>
     <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'strip' of 'str' objects&gt;</text>
 </g></svg>
-<svg class="func_g" x="1164.581119606748" y="216" width="33.94554334842805" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 2.91% (9739302 9739302 2.6912827000000004 2.6912827000000004)</title>
+<svg class="func_g" x="1165.7183518180002" y="216" width="32.702185020154545" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117:analyze_dictionary 2.81% (9739302 9739302 2.262100405 2.262100405)</title>
     <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">analyze_dictionary</text>
 </g></svg>
-<svg class="func_g" x="1164.581119606748" y="240" width="33.94554334842805" height="23"><g>
-    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48:main 39.28% (1 1 36.303819097 90.31871138800001)</title>
+<svg class="func_g" x="1165.7183518180002" y="240" width="32.702185020154545" height="23"><g>
+    <title>/Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53:main 39.01% (1 1 31.419392603000002 78.496381618)</title>
     <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
     <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
 </g></svg>

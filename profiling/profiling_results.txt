@@ -1,58 +1,58 @@
-         194643455 function calls (194637646 primitive calls) in 92.416 seconds
+         194643604 function calls (194637786 primitive calls) in 80.544 seconds
 
    Ordered by: cumulative time
    List reduced from 897 to 50 due to restriction <50>
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    0.691    0.691   92.880   92.880 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:48(main)
-        1   36.304   36.304   90.319   90.319 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117(analyze_dictionary)
- 57920901   19.161    0.000   28.191    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177(<genexpr>)
- 57960674    9.520    0.000    9.520    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176(<genexpr>)
- 55834381    9.432    0.000    9.432    0.000 {method 'isspace' of 'str' objects}
-       17    0.000    0.000    4.252    0.250 /usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602(__init__)
-       23    0.000    0.000    4.252    0.185 /usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679(update)
-       10    4.241    0.424    4.241    0.424 {built-in method _collections._count_elements}
-        4    0.001    0.000    4.225    1.056 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31(count_chars)
-  9503330    4.197    0.000    4.197    0.000 {method 'add' of 'set' objects}
-  9739305    2.691    0.000    2.691    0.000 {method 'strip' of 'str' objects}
-        1    0.109    0.109    1.411    1.411 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275(build_works_dataframe)
-        2    0.063    0.032    1.264    0.632 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675(isin)
-  2437060    0.857    0.000    1.258    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166(<genexpr>)
-      4/2    0.772    0.193    1.201    0.600 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493(isin)
-       28    1.064    0.038    1.139    0.041 {built-in method builtins.sorted}
-        4    0.012    0.003    0.925    0.231 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62(top_n)
-   234704    0.890    0.000    0.890    0.000 {method 'split' of 'str' objects}
-        2    0.072    0.036    0.811    0.406 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897(isin)
-   236983    0.651    0.000    0.651    0.000 {method 'lower' of 'str' objects}
-        4    0.362    0.091    0.617    0.154 {method 'read' of '_io.TextIOWrapper' objects}
-       28    0.101    0.004    0.326    0.012 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228(_ensure_arraylike)
-        4    0.000    0.000    0.255    0.064 <frozen codecs>:322(decode)
-        4    0.255    0.064    0.255    0.064 {built-in method _codecs.utf_8_decode}
-       39    0.000    0.000    0.226    0.006 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468(construct_1d_object_array_from_listlike)
-       39    0.225    0.006    0.225    0.006 {built-in method numpy.fromiter}
-        3    0.025    0.008    0.215    0.072 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:206(preprocess_and_tokenize)
-        1    0.214    0.214    0.214    0.214 {method 'splitlines' of 'str' objects}
-     1218    0.006    0.000    0.126    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:1538(iterrows)
-     1229    0.013    0.000    0.110    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:369(__init__)
-   242368    0.075    0.000    0.075    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:14(_sort_key)
-       10    0.001    0.000    0.069    0.007 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:84(df_top_n)
-     1344    0.023    0.000    0.051    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/construction.py:531(sanitize_array)
-    87528    0.048    0.000    0.048    0.000 {method 'get' of 'dict' objects}
-        3    0.007    0.002    0.046    0.015 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:305(compute_similarity)
-243345/237834    0.038    0.000    0.041    0.000 {built-in method builtins.len}
-        6    0.033    0.005    0.033    0.005 {method 'sub' of 're.Pattern' objects}
-       36    0.032    0.001    0.032    0.001 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:756(_from_sequence)
-     2434    0.006    0.000    0.027    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:945(__getitem__)
-56130/55996    0.016    0.000    0.024    0.000 {built-in method builtins.isinstance}
-       11    0.000    0.000    0.024    0.002 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:8128(sort_values)
-        2    0.000    0.000    0.022    0.011 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:702(__init__)
-        1    0.001    0.001    0.022    0.022 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/construction.py:375(dict_to_mgr)
-       10    0.000    0.000    0.020    0.002 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:4018(nlargest)
-       10    0.000    0.000    0.020    0.002 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/methods/selectn.py:71(nlargest)
-        1    0.000    0.000    0.020    0.020 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/construction.py:96(arrays_to_mgr)
-       10    0.001    0.000    0.020    0.002 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/methods/selectn.py:106(compute)
-     1509    0.005    0.000    0.017    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/generic.py:6208(__setattr__)
-     1239    0.005    0.000    0.017    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/managers.py:2040(from_array)
-    44/33    0.000    0.000    0.016    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexing.py:1192(__getitem__)
+        1    0.654    0.654   80.954   80.954 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/cli.py:53(main)
+        1   31.419   31.419   78.496   78.496 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:117(analyze_dictionary)
+ 57920901   16.822    0.000   24.859    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:177(<genexpr>)
+ 57960674    8.438    0.000    8.438    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:176(<genexpr>)
+ 55834381    8.393    0.000    8.393    0.000 {method 'isspace' of 'str' objects}
+       17    0.000    0.000    3.526    0.207 /usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:602(__init__)
+       23    0.000    0.000    3.526    0.153 /usr/local/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py:679(update)
+       10    3.523    0.352    3.523    0.352 {built-in method _collections._count_elements}
+        4    0.001    0.000    3.511    0.878 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:31(count_chars)
+  9503330    3.464    0.000    3.464    0.000 {method 'add' of 'set' objects}
+  9739305    2.262    0.000    2.262    0.000 {method 'strip' of 'str' objects}
+        1    0.105    0.105    1.358    1.358 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:275(build_works_dataframe)
+        2    0.060    0.030    1.191    0.596 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/indexes/base.py:6675(isin)
+      4/2    0.717    0.179    1.132    0.566 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:493(isin)
+       28    1.046    0.037    1.124    0.040 {built-in method builtins.sorted}
+  2437060    0.763    0.000    1.118    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:166(<genexpr>)
+        4    0.012    0.003    0.918    0.229 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:62(top_n)
+        2    0.075    0.037    0.759    0.379 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:897(isin)
+   234704    0.642    0.000    0.642    0.000 {method 'split' of 'str' objects}
+   236983    0.561    0.000    0.561    0.000 {method 'lower' of 'str' objects}
+        4    0.367    0.092    0.543    0.136 {method 'read' of '_io.TextIOWrapper' objects}
+       28    0.094    0.003    0.311    0.011 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/algorithms.py:228(_ensure_arraylike)
+       39    0.000    0.000    0.218    0.006 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/dtypes/cast.py:1468(construct_1d_object_array_from_listlike)
+       39    0.218    0.006    0.218    0.006 {built-in method numpy.fromiter}
+        3    0.023    0.008    0.201    0.067 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:206(preprocess_and_tokenize)
+        1    0.190    0.190    0.190    0.190 {method 'splitlines' of 'str' objects}
+        4    0.000    0.000    0.176    0.044 <frozen codecs>:322(decode)
+        4    0.176    0.044    0.176    0.044 {built-in method _codecs.utf_8_decode}
+     1218    0.005    0.000    0.113    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:1538(iterrows)
+     1229    0.012    0.000    0.100    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:369(__init__)
+       10    0.001    0.000    0.086    0.009 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:84(df_top_n)
+   242368    0.078    0.000    0.078    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:14(_sort_key)
+        3    0.007    0.002    0.052    0.017 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/src/language_analyzer/analyzer.py:305(compute_similarity)
+     1344    0.021    0.000    0.049    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/construction.py:531(sanitize_array)
+    87529    0.044    0.000    0.044    0.000 {method 'get' of 'dict' objects}
+243366/237852    0.036    0.000    0.038    0.000 {built-in method builtins.len}
+        2    0.000    0.000    0.037    0.018 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:702(__init__)
+        1    0.001    0.001    0.037    0.037 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/construction.py:375(dict_to_mgr)
+        6    0.035    0.006    0.035    0.006 {method 'sub' of 're.Pattern' objects}
+       11    0.000    0.000    0.033    0.003 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/frame.py:8128(sort_values)
+       36    0.030    0.001    0.031    0.001 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/string_.py:756(_from_sequence)
+       10    0.000    0.000    0.027    0.003 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:4018(nlargest)
+       10    0.000    0.000    0.027    0.003 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/methods/selectn.py:71(nlargest)
+       10    0.003    0.000    0.027    0.003 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/methods/selectn.py:106(compute)
+        1    0.000    0.000    0.025    0.025 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/construction.py:96(arrays_to_mgr)
+     2434    0.005    0.000    0.025    0.000 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/series.py:945(__getitem__)
+       11    0.003    0.000    0.024    0.002 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/sorting.py:302(lexsort_indexer)
+56152/56018    0.015    0.000    0.022    0.000 {built-in method builtins.isinstance}
+       22    0.001    0.000    0.020    0.001 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/arrays/categorical.py:387(__init__)
+        1    0.009    0.009    0.019    0.019 /Users/michalmarczak/Developer/projects/NPD_Final_Assignment/.venv/lib/python3.14/site-packages/pandas/core/internals/construction.py:553(_homogenize)
 
 
