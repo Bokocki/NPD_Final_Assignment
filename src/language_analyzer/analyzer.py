@@ -238,7 +238,7 @@ def preprocess_and_tokenize(
     content = raw
     for rep in replacements:
         if ":" in rep:
-            # Split only on the first colon to allow for 'old:n:ew' just in case
+            # Split only on the first colon to allow for 'old:n:ew'
             old, new = rep.split(":", 1)
             content = content.replace(old, new)
 

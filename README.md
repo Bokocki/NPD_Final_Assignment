@@ -3,8 +3,6 @@
 ## Overview
 Language Analyzer is a Python tool built for the Data in Python course Final Assignment. It compares classic literature against a language dictionary. The tool helps users analyze an author's vocabulary, see their stylistic choices, and compare how similar different texts are to each other.
 
----
-
 ## Installation & Usage
 
 ### 1. Installation
@@ -21,8 +19,6 @@ pip install .
 ### 2. Running the Tool
 Once installed, you can run the tool from your terminal using the `language-analyzer` command. All analysis results are saved directly to the file you specify with the `--output` option.
 
----
-
 ## How It Works
 
 To make sure the analysis is accurate and consistent, the tool follows a few simple rules:
@@ -38,8 +34,6 @@ To make sure the analysis is accurate and consistent, the tool follows a few sim
 ### Analyzing Literary Works
 - **Cleaning the Text**: Words inside the literary works are standardized. Hyphens surrounded by letters (like `word-word`) are kept, but all other punctuation is replaced with spaces.
 - **Finding the Base Word**: After cleaning the text, the tool changes words to lowercase and looks them up in the dictionary to find their base form.
-
----
 
 ## Examples
 
@@ -59,7 +53,7 @@ Analyze two literary works to compare them, again using only the required argume
 ```bash
 language-analyzer \
     --dictionary data/dictionaries/polski.txt \
-    --works "data/works/Mickiewicz/Pan Tadeusz.txt,data/works/Mickiewicz/Grażyna.txt" \
+    --works "data/works/Mickiewicz/Pan Tadeusz.txt, data/works/Mickiewicz/Grażyna.txt" \
     --output output.txt
 ```
 
@@ -73,11 +67,9 @@ language-analyzer \
     --dictionary-stats \
     --no-words \
     --frequencies 100 \
-    --replace "é:e" \
+    --replace é:e \
     --output output.txt
 ```
-
----
 
 ## Command Line Options
 
@@ -89,4 +81,4 @@ language-analyzer \
 | `--dictionary-stats [LEVEL]` | Output statistics about the dictionary and works. There are three levels: `basic` (lines, total/unique words), `words` (adds top 10 words), and `all` (adds letter and character counts). If you skip this option completely, it automatically defaults to `all`. |
 | `--no-words` | List any words found in the literary works that are missing from the dictionary, along with how often they appear. |
 | `--frequencies N` | Find the `N` most frequent words and calculate a similarity score (from 0 to 100) to compare the style of the works. |
-| `--replace` | Optional rule to replace characters before analyzing the text (for example, `--replace "é:e"`). |
+| `--replace` | Optional rule to replace characters before analyzing the text. |

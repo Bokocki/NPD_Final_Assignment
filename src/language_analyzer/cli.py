@@ -109,30 +109,26 @@ def main() -> None:
 
     with open(args.output, "w", encoding="utf-8") as out:
         # 1. Dictionary statistics
-        if args.dictionary_stats:
-            _write_stats(
-                out, dict_stats, "Dictionary Statistics", args.dictionary_stats
-            )
+        _write_stats(out, dict_stats, "Dictionary Statistics", args.dictionary_stats)
 
         # 2. Combined works statistics
-        if args.dictionary_stats:
-            letters = sorted(total_letters_freq.items(), key=lambda x: (-x[1], x[0]))
-            other = sorted(total_other_freq.items(), key=lambda x: (-x[1], x[0]))
-            total_stats = {
-                "file_count": len(works_files),
-                "lines_count": total_lines,
-                "words_count": int(df["total_count"].sum()) if not df.empty else 0,
-                "unique_words_count": len(df),
-                "top_10_words": df_top_n(df, "total_count", 10),
-                "letters_count": letters,
-                "other_count": other,
-            }
-            _write_stats(
-                out,
-                total_stats,
-                "Total Statistics for all Master files",
-                args.dictionary_stats,
-            )
+        letters = sorted(total_letters_freq.items(), key=lambda x: (-x[1], x[0]))
+        other = sorted(total_other_freq.items(), key=lambda x: (-x[1], x[0]))
+        total_stats = {
+            "file_count": len(works_files),
+            "lines_count": total_lines,
+            "words_count": int(df["total_count"].sum()) if not df.empty else 0,
+            "unique_words_count": len(df),
+            "top_10_words": df_top_n(df, "total_count", 10),
+            "letters_count": letters,
+            "other_count": other,
+        }
+        _write_stats(
+            out,
+            total_stats,
+            "Total Statistics for all Master files",
+            args.dictionary_stats,
+        )
 
         # 3. Similarity comparison
         if args.frequencies is not None and len(works_files) > 1:
@@ -144,7 +140,7 @@ def main() -> None:
                     out.write(f"Similarity between {w1} and {w2}: {sim:.2f}\n")
 
         # 4. Separate works statistics
-        if args.dictionary_stats and len(works_files) > 1:
+        if len(works_files) > 1:
             for work in works_files:
                 _write_stats(
                     out,
